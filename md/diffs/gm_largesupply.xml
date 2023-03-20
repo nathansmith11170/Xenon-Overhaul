@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<diff>
+  <replace sel="/mdscript/cues/cue[@name='GenerateGenericMission']/actions/set_value[@name='$RestrictedMissionFactions']/@exact">[faction.player, faction.xenon, faction.xenon1, faction.xenon2, faction.xenon3, faction.xenon4, faction.xenon5, faction.xenon6, faction.ownerless]</replace>
+  <replace sel="/mdscript/cues/cue[@name='GenerateGenericMission']/cues/cue[@name='GenerateGenericMission_Variant_1']/actions/do_if[@value='$OfferStation.workforce.{$OfferStation.owner.primaryrace}.capacity gt 100']/do_if/do_if/do_all/do_if/do_all/do_if/@value">[faction.xenon, faction.xenon1, faction.xenon2, faction.xenon3, faction.xenon4, faction.xenon5, faction.xenon6].indexof.{$WarFronts.{$i}.$EnemyFaction} != 0</replace>
+  <replace sel="/mdscript/cues/cue[@name='GenerateGenericMission']/cues/cue[@name='GenerateGenericMission_Variant_2']/actions/do_if[@value='$ShipyardOrEQDocks.count']/do_if/do_if/do_all/do_if/do_all/do_if/@value">[faction.xenon, faction.xenon1, faction.xenon2, faction.xenon3, faction.xenon4, faction.xenon5, faction.xenon6].indexof.{$WarFronts.{$i}.$EnemyFaction} != 0</replace>
+</diff>

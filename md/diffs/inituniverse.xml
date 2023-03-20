@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
+<diff>
+  <replace sel="/mdscript/cues/library[@name='CreateTradeManagerEntity']/actions/do_if/do_if/do_if/@value">$room? and $controllable.owner.primaryrace != race.xenon</replace>
+</diff>

@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
+<diff>
+  <replace sel="/mdscript/cues/cue[@name='Start']/cues/cue[@name='Pt4_Follow_Ship']/cues/cue[@name='Pt4_Setup_Sector_Patrol']/cues/cue[@name='Pt4_Sector_Patrol']/cues/cue[@name='Pt4_Sector_Patrol_Ref']/param[@name='EnemyFactions']/@value">[faction.scaleplate, faction.xenon, faction.xenon1, faction.xenon2, faction.xenon3, faction.xenon4, faction.xenon5, faction.xenon6, faction.khaak]</replace>
+</diff>

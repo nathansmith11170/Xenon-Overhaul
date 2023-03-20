@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<diff>
+  <replace sel="/stations/station[@id='shipyard_xen']/category/@faction">[xenon, xenon1, xenon2, xenon3, xenon4, xenon5, xenon6]</replace>
+  <replace sel="/stations/station[@id='wharf_xen']/category/@faction">[xenon, xenon1, xenon2, xenon3, xenon4, xenon5, xenon6]</replace>
+  <replace sel="/stations/station[@id='defence_xen']/category/@faction">[xenon, xenon1, xenon2, xenon3, xenon4, xenon5, xenon6]</replace>
+</diff>

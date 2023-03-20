@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<diff>
+  <replace sel="/ships/ship[@id='xenon_carrier_xl']/pilot/select/@faction">[xenon, xenon1, xenon2, xenon3, xenon4, xenon5, xenon6]</replace>
+  <replace sel="/ships/ship[@id='xenon_destroyer_xl']/pilot/select/@faction">[xenon, xenon1, xenon2, xenon3, xenon4, xenon5, xenon6]</replace>
+  <replace sel="/ships/ship[@id='xenon_frigate_m']/pilot/select/@faction">[xenon, xenon1, xenon2, xenon3, xenon4, xenon5, xenon6]</replace>
+  <replace sel="/ships/ship[@id='xenon_miner_m']/pilot/select/@faction">[xenon, xenon1, xenon2, xenon3, xenon4, xenon5, xenon6]</replace>
+  <replace sel="/ships/ship[@id='xenon_gunboat_m']/pilot/select/@faction">[xenon, xenon1, xenon2, xenon3, xenon4, xenon5, xenon6]</replace>
+  <replace sel="/ships/ship[@id='xenon_fighter_s']/pilot/select/@faction">[xenon, xenon1, xenon2, xenon3, xenon4, xenon5, xenon6]</replace>
+  <replace sel="/ships/ship[@id='xenon_fighter_heavy_s']/pilot/select/@faction">[xenon, xenon1, xenon2, xenon3, xenon4, xenon5, xenon6]</replace>
+  <replace sel="/ships/ship[@id='xenon_fighter_light_s']/pilot/select/@faction">[xenon, xenon1, xenon2, xenon3, xenon4, xenon5, xenon6]</replace>
+  <replace sel="/ships/ship[@id='xenon_scout_s']/pilot/select/@faction">[xenon, xenon1, xenon2, xenon3, xenon4, xenon5, xenon6]</replace>
+  <replace sel="/ships/ship[@id='masstraffic_xenon_civilian']/pilot/select/@faction">[xenon, xenon1, xenon2, xenon3, xenon4, xenon5, xenon6]</replace>
+</diff>

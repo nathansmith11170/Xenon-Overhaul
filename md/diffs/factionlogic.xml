@@ -1,0 +1,108 @@
+<?xml version='1.0' encoding='utf-8'?>
+<diff>
+  <add sel="/mdscript/cues/cue[@name='FactionLogicManagers']/cues/cue[@name='BuccaneersFactionLogic']" pos="before">
+    <cue name="Xenon1FactionLogic">
+      <cues>
+        <cue name="Xenon1FactionLogic_Manager" ref="Manager">
+          <param name="Faction" value="faction.xenon1"/>
+          <param name="BaseAggressionLevel" value="moodlevel.veryhigh"/>
+          <param name="BaseAvariceLevel" value="moodlevel.low"/>
+          <param name="BaseLawfulness" value="1.0"/>
+          <param name="HasMissions" value="false"/>
+          <param name="SatelliteNetworkGoal" value="0"/>
+          <param name="MinefieldGoalPerSector" value="1" comment="[MGPS * Sectors, 12].min is the maximum amount of Minefields for this faction"/>
+          <param name="DebugChance" value="0"/>
+          <param name="DebugChance2" value="0"/>
+        </cue>
+      </cues>
+    </cue>
+  </add>
+  <add sel="/mdscript/cues/cue[@name='FactionLogicManagers']/cues/cue[@name='BuccaneersFactionLogic']" pos="before">
+    <cue name="Xenon2FactionLogic">
+      <cues>
+        <cue name="Xenon2FactionLogic_Manager" ref="Manager">
+          <param name="Faction" value="faction.xenon2"/>
+          <param name="BaseAggressionLevel" value="moodlevel.veryhigh"/>
+          <param name="BaseAvariceLevel" value="moodlevel.low"/>
+          <param name="BaseLawfulness" value="1.0"/>
+          <param name="HasMissions" value="false"/>
+          <param name="SatelliteNetworkGoal" value="0"/>
+          <param name="MinefieldGoalPerSector" value="1" comment="[MGPS * Sectors, 12].min is the maximum amount of Minefields for this faction"/>
+          <param name="DebugChance" value="0"/>
+          <param name="DebugChance2" value="0"/>
+        </cue>
+      </cues>
+    </cue>
+  </add>
+  <add sel="/mdscript/cues/cue[@name='FactionLogicManagers']/cues/cue[@name='BuccaneersFactionLogic']" pos="before">
+    <cue name="Xenon3FactionLogic">
+      <cues>
+        <cue name="Xenon3FactionLogic_Manager" ref="Manager">
+          <param name="Faction" value="faction.xenon3"/>
+          <param name="BaseAggressionLevel" value="moodlevel.veryhigh"/>
+          <param name="BaseAvariceLevel" value="moodlevel.low"/>
+          <param name="BaseLawfulness" value="1.0"/>
+          <param name="HasMissions" value="false"/>
+          <param name="SatelliteNetworkGoal" value="0"/>
+          <param name="MinefieldGoalPerSector" value="1" comment="[MGPS * Sectors, 12].min is the maximum amount of Minefields for this faction"/>
+          <param name="DebugChance" value="0"/>
+          <param name="DebugChance2" value="0"/>
+        </cue>
+      </cues>
+    </cue>
+  </add>
+  <add sel="/mdscript/cues/cue[@name='FactionLogicManagers']/cues/cue[@name='BuccaneersFactionLogic']" pos="before">
+    <cue name="Xenon4FactionLogic">
+      <cues>
+        <cue name="Xenon4FactionLogic_Manager" ref="Manager">
+          <param name="Faction" value="faction.xenon4"/>
+          <param name="BaseAggressionLevel" value="moodlevel.veryhigh"/>
+          <param name="BaseAvariceLevel" value="moodlevel.low"/>
+          <param name="BaseLawfulness" value="1.0"/>
+          <param name="HasMissions" value="false"/>
+          <param name="SatelliteNetworkGoal" value="0"/>
+          <param name="MinefieldGoalPerSector" value="1" comment="[MGPS * Sectors, 12].min is the maximum amount of Minefields for this faction"/>
+          <param name="DebugChance" value="0"/>
+          <param name="DebugChance2" value="0"/>
+        </cue>
+      </cues>
+    </cue>
+  </add>
+  <add sel="/mdscript/cues/cue[@name='FactionLogicManagers']/cues/cue[@name='BuccaneersFactionLogic']" pos="before">
+    <cue name="Xenon5FactionLogic">
+      <cues>
+        <cue name="Xenon5FactionLogic_Manager" ref="Manager">
+          <param name="Faction" value="faction.xenon5"/>
+          <param name="BaseAggressionLevel" value="moodlevel.veryhigh"/>
+          <param name="BaseAvariceLevel" value="moodlevel.low"/>
+          <param name="BaseLawfulness" value="1.0"/>
+          <param name="HasMissions" value="false"/>
+          <param name="SatelliteNetworkGoal" value="0"/>
+          <param name="MinefieldGoalPerSector" value="1" comment="[MGPS * Sectors, 12].min is the maximum amount of Minefields for this faction"/>
+          <param name="DebugChance" value="0"/>
+          <param name="DebugChance2" value="0"/>
+        </cue>
+      </cues>
+    </cue>
+  </add>
+  <add sel="/mdscript/cues/cue[@name='FactionLogicManagers']/cues/cue[@name='BuccaneersFactionLogic']" pos="before">
+    <cue name="Xenon6FactionLogic">
+      <cues>
+        <cue name="Xenon6FactionLogic_Manager" ref="Manager">
+          <param name="Faction" value="faction.xenon6"/>
+          <param name="BaseAggressionLevel" value="moodlevel.veryhigh"/>
+          <param name="BaseAvariceLevel" value="moodlevel.low"/>
+          <param name="BaseLawfulness" value="1.0"/>
+          <param name="HasMissions" value="false"/>
+          <param name="SatelliteNetworkGoal" value="0"/>
+          <param name="MinefieldGoalPerSector" value="1" comment="[MGPS * Sectors, 12].min is the maximum amount of Minefields for this faction"/>
+          <param name="DebugChance" value="0"/>
+          <param name="DebugChance2" value="0"/>
+        </cue>
+      </cues>
+    </cue>
+  </add>
+  <replace sel="/mdscript/cues/cue[@name='FactionLogicManagers']/cues/cue[@name='TerranFactionLogic']/cues/cue/param[@name='ExpeditionEnemies']/@value">[faction.xenon, faction.xenon1, faction.xenon2, faction.xenon3, faction.xenon4, faction.xenon5, faction.xenon6]</replace>
+  <replace sel="/mdscript/cues/library[@name='Manager']/cues/cue[@name='MaintainMinefields']/cues/cue/actions/do_if[@comment='']/do_all[@counter='$h']/do_if/find_sector/@owner">[faction.xenon, faction.xenon1, faction.xenon2, faction.xenon3, faction.xenon4, faction.xenon5, faction.xenon6]</replace>
+  <replace sel="/mdscript/cues/library[@name='Manager']/cues/cue[@name='MaintainMinefields']/cues/cue/actions/do_if[@comment='']/do_while/do_elseif[@value='$Faction == faction.xenon']/@value">[faction.xenon, faction.xenon1, faction.xenon2, faction.xenon3, faction.xenon4, faction.xenon5, faction.xenon6].indexof{$Faction} != 0</replace>
+</diff>

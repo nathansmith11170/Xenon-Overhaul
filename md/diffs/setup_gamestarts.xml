@@ -1,0 +1,237 @@
+<?xml version='1.0' encoding='utf-8'?>
+<diff>
+  <add sel="/mdscript/cues/cue[@name='Test_SmallShip']/actions/do_if" pos="before">
+    <set_faction_known faction="faction.xenon1" known="true"/>
+  </add>
+  <add sel="/mdscript/cues/cue[@name='Test_SmallShip']/actions/do_if" pos="before">
+    <set_faction_known faction="faction.xenon2" known="true"/>
+  </add>
+  <add sel="/mdscript/cues/cue[@name='Test_SmallShip']/actions/do_if" pos="before">
+    <set_faction_known faction="faction.xenon3" known="true"/>
+  </add>
+  <add sel="/mdscript/cues/cue[@name='Test_SmallShip']/actions/do_if" pos="before">
+    <set_faction_known faction="faction.xenon4" known="true"/>
+  </add>
+  <add sel="/mdscript/cues/cue[@name='Test_SmallShip']/actions/do_if" pos="before">
+    <set_faction_known faction="faction.xenon5" known="true"/>
+  </add>
+  <add sel="/mdscript/cues/cue[@name='Test_SmallShip']/actions/do_if" pos="before">
+    <set_faction_known faction="faction.xenon6" known="true"/>
+  </add>
+  <add sel="/mdscript/cues/cue[@name='Test_Trade']/actions/find_cluster[@name='$Clusters']" pos="before">
+    <set_faction_known faction="faction.xenon1" known="true"/>
+  </add>
+  <add sel="/mdscript/cues/cue[@name='Test_Trade']/actions/find_cluster[@name='$Clusters']" pos="before">
+    <set_faction_known faction="faction.xenon2" known="true"/>
+  </add>
+  <add sel="/mdscript/cues/cue[@name='Test_Trade']/actions/find_cluster[@name='$Clusters']" pos="before">
+    <set_faction_known faction="faction.xenon3" known="true"/>
+  </add>
+  <add sel="/mdscript/cues/cue[@name='Test_Trade']/actions/find_cluster[@name='$Clusters']" pos="before">
+    <set_faction_known faction="faction.xenon4" known="true"/>
+  </add>
+  <add sel="/mdscript/cues/cue[@name='Test_Trade']/actions/find_cluster[@name='$Clusters']" pos="before">
+    <set_faction_known faction="faction.xenon5" known="true"/>
+  </add>
+  <add sel="/mdscript/cues/cue[@name='Test_Trade']/actions/find_cluster[@name='$Clusters']" pos="before">
+    <set_faction_known faction="faction.xenon6" known="true"/>
+  </add>
+  <add sel="/mdscript/cues/cue[@name='Test_Trade_2']/actions/find_cluster" pos="before">
+    <set_faction_known faction="faction.xenon1" known="true"/>
+  </add>
+  <add sel="/mdscript/cues/cue[@name='Test_Trade_2']/actions/find_cluster" pos="before">
+    <set_faction_known faction="faction.xenon2" known="true"/>
+  </add>
+  <add sel="/mdscript/cues/cue[@name='Test_Trade_2']/actions/find_cluster" pos="before">
+    <set_faction_known faction="faction.xenon3" known="true"/>
+  </add>
+  <add sel="/mdscript/cues/cue[@name='Test_Trade_2']/actions/find_cluster" pos="before">
+    <set_faction_known faction="faction.xenon4" known="true"/>
+  </add>
+  <add sel="/mdscript/cues/cue[@name='Test_Trade_2']/actions/find_cluster" pos="before">
+    <set_faction_known faction="faction.xenon5" known="true"/>
+  </add>
+  <add sel="/mdscript/cues/cue[@name='Test_Trade_2']/actions/find_cluster" pos="before">
+    <set_faction_known faction="faction.xenon6" known="true"/>
+  </add>
+  <add sel="/mdscript/cues/cue[@name='Test_Platform']/actions/set_value" pos="before">
+    <set_faction_known faction="faction.xenon1" known="true"/>
+  </add>
+  <add sel="/mdscript/cues/cue[@name='Test_Platform']/actions/set_value" pos="before">
+    <set_faction_known faction="faction.xenon2" known="true"/>
+  </add>
+  <add sel="/mdscript/cues/cue[@name='Test_Platform']/actions/set_value" pos="before">
+    <set_faction_known faction="faction.xenon3" known="true"/>
+  </add>
+  <add sel="/mdscript/cues/cue[@name='Test_Platform']/actions/set_value" pos="before">
+    <set_faction_known faction="faction.xenon4" known="true"/>
+  </add>
+  <add sel="/mdscript/cues/cue[@name='Test_Platform']/actions/set_value" pos="before">
+    <set_faction_known faction="faction.xenon5" known="true"/>
+  </add>
+  <add sel="/mdscript/cues/cue[@name='Test_Platform']/actions/set_value" pos="before">
+    <set_faction_known faction="faction.xenon6" known="true"/>
+  </add>
+  <add sel="/mdscript/cues/cue[@name='Test_Platform_2']/actions/set_value" pos="before">
+    <set_faction_known faction="faction.xenon1" known="true"/>
+  </add>
+  <add sel="/mdscript/cues/cue[@name='Test_Platform_2']/actions/set_value" pos="before">
+    <set_faction_known faction="faction.xenon2" known="true"/>
+  </add>
+  <add sel="/mdscript/cues/cue[@name='Test_Platform_2']/actions/set_value" pos="before">
+    <set_faction_known faction="faction.xenon3" known="true"/>
+  </add>
+  <add sel="/mdscript/cues/cue[@name='Test_Platform_2']/actions/set_value" pos="before">
+    <set_faction_known faction="faction.xenon4" known="true"/>
+  </add>
+  <add sel="/mdscript/cues/cue[@name='Test_Platform_2']/actions/set_value" pos="before">
+    <set_faction_known faction="faction.xenon5" known="true"/>
+  </add>
+  <add sel="/mdscript/cues/cue[@name='Test_Platform_2']/actions/set_value" pos="before">
+    <set_faction_known faction="faction.xenon6" known="true"/>
+  </add>
+  <add sel="/mdscript/cues/cue[@name='Test_Build']/actions/create_ship" pos="before">
+    <set_faction_known faction="faction.xenon1" known="true"/>
+  </add>
+  <add sel="/mdscript/cues/cue[@name='Test_Build']/actions/create_ship" pos="before">
+    <set_faction_known faction="faction.xenon2" known="true"/>
+  </add>
+  <add sel="/mdscript/cues/cue[@name='Test_Build']/actions/create_ship" pos="before">
+    <set_faction_known faction="faction.xenon3" known="true"/>
+  </add>
+  <add sel="/mdscript/cues/cue[@name='Test_Build']/actions/create_ship" pos="before">
+    <set_faction_known faction="faction.xenon4" known="true"/>
+  </add>
+  <add sel="/mdscript/cues/cue[@name='Test_Build']/actions/create_ship" pos="before">
+    <set_faction_known faction="faction.xenon5" known="true"/>
+  </add>
+  <add sel="/mdscript/cues/cue[@name='Test_Build']/actions/create_ship" pos="before">
+    <set_faction_known faction="faction.xenon6" known="true"/>
+  </add>
+  <add sel="/mdscript/cues/cue[@name='Test_Battle']/actions/set_faction_known[@faction='faction.split']" pos="before">
+    <set_faction_known faction="faction.xenon1" known="true"/>
+  </add>
+  <add sel="/mdscript/cues/cue[@name='Test_Battle']/actions/set_faction_known[@faction='faction.split']" pos="before">
+    <set_faction_known faction="faction.xenon2" known="true"/>
+  </add>
+  <add sel="/mdscript/cues/cue[@name='Test_Battle']/actions/set_faction_known[@faction='faction.split']" pos="before">
+    <set_faction_known faction="faction.xenon3" known="true"/>
+  </add>
+  <add sel="/mdscript/cues/cue[@name='Test_Battle']/actions/set_faction_known[@faction='faction.split']" pos="before">
+    <set_faction_known faction="faction.xenon4" known="true"/>
+  </add>
+  <add sel="/mdscript/cues/cue[@name='Test_Battle']/actions/set_faction_known[@faction='faction.split']" pos="before">
+    <set_faction_known faction="faction.xenon5" known="true"/>
+  </add>
+  <add sel="/mdscript/cues/cue[@name='Test_Battle']/actions/set_faction_known[@faction='faction.split']" pos="before">
+    <set_faction_known faction="faction.xenon6" known="true"/>
+  </add>
+  <add sel="/mdscript/cues/cue[@name='Test_CapShipDocking']/actions/create_ship" pos="before">
+    <set_faction_known faction="faction.xenon1" known="true"/>
+  </add>
+  <add sel="/mdscript/cues/cue[@name='Test_CapShipDocking']/actions/create_ship" pos="before">
+    <set_faction_known faction="faction.xenon2" known="true"/>
+  </add>
+  <add sel="/mdscript/cues/cue[@name='Test_CapShipDocking']/actions/create_ship" pos="before">
+    <set_faction_known faction="faction.xenon3" known="true"/>
+  </add>
+  <add sel="/mdscript/cues/cue[@name='Test_CapShipDocking']/actions/create_ship" pos="before">
+    <set_faction_known faction="faction.xenon4" known="true"/>
+  </add>
+  <add sel="/mdscript/cues/cue[@name='Test_CapShipDocking']/actions/create_ship" pos="before">
+    <set_faction_known faction="faction.xenon5" known="true"/>
+  </add>
+  <add sel="/mdscript/cues/cue[@name='Test_CapShipDocking']/actions/create_ship" pos="before">
+    <set_faction_known faction="faction.xenon6" known="true"/>
+  </add>
+  <add sel="/mdscript/cues/cue[@name='Test_Mining']/actions/comment()[1]" pos="before">
+    <set_faction_known faction="faction.xenon1" known="true"/>
+  </add>
+  <add sel="/mdscript/cues/cue[@name='Test_Mining']/actions/comment()[1]" pos="before">
+    <set_faction_known faction="faction.xenon2" known="true"/>
+  </add>
+  <add sel="/mdscript/cues/cue[@name='Test_Mining']/actions/comment()[1]" pos="before">
+    <set_faction_known faction="faction.xenon3" known="true"/>
+  </add>
+  <add sel="/mdscript/cues/cue[@name='Test_Mining']/actions/comment()[1]" pos="before">
+    <set_faction_known faction="faction.xenon4" known="true"/>
+  </add>
+  <add sel="/mdscript/cues/cue[@name='Test_Mining']/actions/comment()[1]" pos="before">
+    <set_faction_known faction="faction.xenon5" known="true"/>
+  </add>
+  <add sel="/mdscript/cues/cue[@name='Test_Mining']/actions/comment()[1]" pos="before">
+    <set_faction_known faction="faction.xenon6" known="true"/>
+  </add>
+  <add sel="/mdscript/cues/cue[@name='Test_CapShipBridge']/actions/do_if" pos="before">
+    <set_faction_known faction="faction.xenon1" known="true"/>
+  </add>
+  <add sel="/mdscript/cues/cue[@name='Test_CapShipBridge']/actions/do_if" pos="before">
+    <set_faction_known faction="faction.xenon2" known="true"/>
+  </add>
+  <add sel="/mdscript/cues/cue[@name='Test_CapShipBridge']/actions/do_if" pos="before">
+    <set_faction_known faction="faction.xenon3" known="true"/>
+  </add>
+  <add sel="/mdscript/cues/cue[@name='Test_CapShipBridge']/actions/do_if" pos="before">
+    <set_faction_known faction="faction.xenon4" known="true"/>
+  </add>
+  <add sel="/mdscript/cues/cue[@name='Test_CapShipBridge']/actions/do_if" pos="before">
+    <set_faction_known faction="faction.xenon5" known="true"/>
+  </add>
+  <add sel="/mdscript/cues/cue[@name='Test_CapShipBridge']/actions/do_if" pos="before">
+    <set_faction_known faction="faction.xenon6" known="true"/>
+  </add>
+  <add sel="/mdscript/cues/cue[@name='Testbed1']/actions/create_ship[@name='$TradeShip1']" pos="before">
+    <set_faction_known faction="faction.xenon1" known="true"/>
+  </add>
+  <add sel="/mdscript/cues/cue[@name='Testbed1']/actions/create_ship[@name='$TradeShip1']" pos="before">
+    <set_faction_known faction="faction.xenon2" known="true"/>
+  </add>
+  <add sel="/mdscript/cues/cue[@name='Testbed1']/actions/create_ship[@name='$TradeShip1']" pos="before">
+    <set_faction_known faction="faction.xenon3" known="true"/>
+  </add>
+  <add sel="/mdscript/cues/cue[@name='Testbed1']/actions/create_ship[@name='$TradeShip1']" pos="before">
+    <set_faction_known faction="faction.xenon4" known="true"/>
+  </add>
+  <add sel="/mdscript/cues/cue[@name='Testbed1']/actions/create_ship[@name='$TradeShip1']" pos="before">
+    <set_faction_known faction="faction.xenon5" known="true"/>
+  </add>
+  <add sel="/mdscript/cues/cue[@name='Testbed1']/actions/create_ship[@name='$TradeShip1']" pos="before">
+    <set_faction_known faction="faction.xenon6" known="true"/>
+  </add>
+  <add sel="/mdscript/cues/cue[@name='Test_Squadron']/actions/set_value[@name='$shipfaction']" pos="before">
+    <set_faction_known faction="faction.xenon1" known="true"/>
+  </add>
+  <add sel="/mdscript/cues/cue[@name='Test_Squadron']/actions/set_value[@name='$shipfaction']" pos="before">
+    <set_faction_known faction="faction.xenon2" known="true"/>
+  </add>
+  <add sel="/mdscript/cues/cue[@name='Test_Squadron']/actions/set_value[@name='$shipfaction']" pos="before">
+    <set_faction_known faction="faction.xenon3" known="true"/>
+  </add>
+  <add sel="/mdscript/cues/cue[@name='Test_Squadron']/actions/set_value[@name='$shipfaction']" pos="before">
+    <set_faction_known faction="faction.xenon4" known="true"/>
+  </add>
+  <add sel="/mdscript/cues/cue[@name='Test_Squadron']/actions/set_value[@name='$shipfaction']" pos="before">
+    <set_faction_known faction="faction.xenon5" known="true"/>
+  </add>
+  <add sel="/mdscript/cues/cue[@name='Test_Squadron']/actions/set_value[@name='$shipfaction']" pos="before">
+    <set_faction_known faction="faction.xenon6" known="true"/>
+  </add>
+  <add sel="/mdscript/cues/cue[@name='Test_Weapon_Test']/actions/do_if" pos="before">
+    <set_faction_known faction="faction.xenon1" known="true"/>
+  </add>
+  <add sel="/mdscript/cues/cue[@name='Test_Weapon_Test']/actions/do_if" pos="before">
+    <set_faction_known faction="faction.xenon2" known="true"/>
+  </add>
+  <add sel="/mdscript/cues/cue[@name='Test_Weapon_Test']/actions/do_if" pos="before">
+    <set_faction_known faction="faction.xenon3" known="true"/>
+  </add>
+  <add sel="/mdscript/cues/cue[@name='Test_Weapon_Test']/actions/do_if" pos="before">
+    <set_faction_known faction="faction.xenon4" known="true"/>
+  </add>
+  <add sel="/mdscript/cues/cue[@name='Test_Weapon_Test']/actions/do_if" pos="before">
+    <set_faction_known faction="faction.xenon5" known="true"/>
+  </add>
+  <add sel="/mdscript/cues/cue[@name='Test_Weapon_Test']/actions/do_if" pos="before">
+    <set_faction_known faction="faction.xenon6" known="true"/>
+  </add>
+</diff>

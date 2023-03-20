@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<diff>
+  <replace sel="/mdscript/cues/library[@name='FindStationUnfriendly']/actions/find_station/match/@owner">[faction.player, faction.xenon, faction.xenon1, faction.xenon2, faction.xenon3, faction.xenon4, faction.xenon5, faction.xenon6, faction.ownerless]</replace>
+  <replace sel="/mdscript/cues/cue[@name='GenerateGenericMission']/cues/cue[@name='GenerateGenericMission_Variant_2']/actions/do_all/do_elseif[3]/find_sector_in_range/@owner">[faction.xenon, faction.xenon1, faction.xenon2, faction.xenon3, faction.xenon4, faction.xenon5, faction.xenon6]</replace>
+  <replace sel="/mdscript/cues/cue[@name='GenerateGenericMission']/cues/cue[@name='GenerateGenericMission_Variant_2']/actions/do_all/do_elseif[3]/do_if/find_station_by_true_owner/@faction">[faction.xenon, faction.xenon1, faction.xenon2, faction.xenon3, faction.xenon4, faction.xenon5, faction.xenon6]</replace>
+</diff>

@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<diff>
+  <replace sel="/mdscript/cues/cue[@name='Init']/cues/cue[@name='KilledObjects']/actions/do_if[@value='event.param.isclass.ship']/do_if[@value='event.param.owner == faction.xenon']/@value">event.param.owner.primaryrace == race.xenon</replace>
+  <replace sel="/mdscript/cues/cue[@name='Init']/cues/cue[@name='KilledObjects']/actions/do_if[@value='event.param.isclass.ship']/do_if[@value='event.param.isclass.[class.ship_l, class.ship_xl]']/do_if/@value">event.param.owner.primaryrace == race.xenon</replace>
+  <replace sel="/mdscript/cues/cue[@name='Init']/cues/cue[@name='ChangedSpace']/actions[1]/do_if/@value">@event.param.owner.primaryrace == race.xenon</replace>
+  <replace sel="/mdscript/cues/cue[@name='Init']/cues/cue[@name='PlayerOwnedShipAttacks']/actions/do_if[@value='$target.iscapturable']/do_if[@value='$Speak_Line? and ($target.owner != faction.xenon) and ($target.owner != faction.khaak)']/@value">$Speak_Line? and ($target.owner.primaryrace != race.xenon) and ($target.owner != faction.khaak)</replace>
+  <replace sel="/mdscript/cues/cue[@name='Init']/cues/cue[@name='PlayerOwnedShipAttacks']/actions/do_if[@value='$attacker == player.occupiedship']/do_if[@value='global.$last_npc_notification le (player.age - 50s) and ($target.pilot.page != 0) and not player.isinconversation']/do_if[@value='$Speak_Line? and $target.owner != faction.xenon']/@value">$Speak_Line? and $target.owner.primaryrace != race.xenon</replace>
+</diff>

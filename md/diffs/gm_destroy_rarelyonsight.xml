@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<diff>
+  <replace sel="/mdscript/cues/cue[@name='GenerateGenericMission']/cues/cue[@name='GenerateGenericMission_Variant_1']/actions/do_all/do_if[@value='$EnemyFaction == faction.criminal or $EnemyFaction == faction.smuggler']/set_value/@exact">[faction.xenon, faction.xenon1, faction.xenon2, faction.xenon3, faction.xenon4, faction.xenon5, faction.xenon6, faction.khaak].random</replace>
+  <replace sel="/mdscript/cues/cue[@name='GenerateGenericMission']/cues/cue[@name='GenerateGenericMission_Variant_2']/actions/do_if[@value='$EnemyFaction == faction.criminal or $EnemyFaction == faction.smuggler']/set_value/@exact">[faction.xenon, faction.xenon1, faction.xenon2, faction.xenon3, faction.xenon4, faction.xenon5, faction.xenon6, faction.khaak].random</replace>
+  <replace sel="/mdscript/cues/cue[@name='GenerateGenericMission']/cues/cue[@name='GenerateGenericMission_Variant_2']/actions/do_if[@value='$EnemyFaction == faction.xenon']/@value">[faction.xenon, faction.xenon1, faction.xenon2, faction.xenon3, faction.xenon4, faction.xenon5, faction.xenon6].indexof.{$EnemyFaction} != 0</replace>
+</diff>

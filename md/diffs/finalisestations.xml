@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<diff>
+  <replace sel="/mdscript/cues/cue[@name='God_DefaultFinaliseFactory']/actions/do_if[@value='$Station.owner != faction.xenon'][1]/@value">$Station.owner.primaryrace != race.xenon</replace>
+  <replace sel="/mdscript/cues/cue[@name='God_DefaultFinaliseFactory']/actions/do_if[@value='$Station.owner != faction.xenon']/@value">$Station.owner.primaryrace != race.xenon</replace>
+  <replace sel="/mdscript/cues/library[@name='NewStation_GenerateFactory']/actions/do_if[@value='$AddHabitation and $Station.owner != faction.xenon']/@value">$AddHabitation and $Station.owner.primaryrace != race.xenon</replace>
+  <replace sel="/mdscript/cues/library[@name='NewStation_GenerateFactory']/actions/do_if[@value='$Station.owner != faction.xenon']/@value">$Station.owner.primaryrace != race.xenon</replace>
+  <replace sel="/mdscript/cues/library[@name='DefaultCalculateDocks']/actions/do_if/do_if[@value='$Station.owner == faction.xenon']/@value">$Station.owner.primaryrace == race.xenon</replace>
+  <replace sel="/mdscript/cues/library[@name='DefaultCalculateDefence']/actions/do_if[@value='$Station.owner != faction.xenon']/@value">$Station.owner.primaryrace != race.xenon</replace>
+</diff>
