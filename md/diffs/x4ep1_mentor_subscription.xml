@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<diff>
+  <replace sel="/mdscript/cues/cue[@name='Start']/cues/cue[@name='Phase_Escape']/cues/library/actions/do_if[1]/check_object/match/@owner">[faction.player, faction.xenon, faction.xenon1, faction.xenon2, faction.xenon3, faction.xenon4, faction.xenon5, faction.xenon6, faction.khaak]</replace>
+  <replace sel="/mdscript/cues/cue[@name='Start']/cues/cue[@name='Phase_Escape']/cues/library/actions/do_if[1]/do_else/find_station/match/@owner">[faction.player, faction.xenon, faction.xenon1, faction.xenon2, faction.xenon3, faction.xenon4, faction.xenon5, faction.xenon6, faction.khaak]</replace>
+  <replace sel="/mdscript/cues/cue[@name='Start']/cues/cue[@name='Phase_Escape']/cues/library/actions/do_if[@value='not $SplitStationSector']/do_for_each/find_station/match/@owner">[faction.player, faction.xenon, faction.xenon1, faction.xenon2, faction.xenon3, faction.xenon4, faction.xenon5, faction.xenon6, faction.khaak]</replace>
+</diff>

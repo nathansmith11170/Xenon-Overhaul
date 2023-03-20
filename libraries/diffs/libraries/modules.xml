@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<diff>
+  <replace sel="/modules/module[@id='prod_xen_energycells']/category/@faction">[xenon, xenon1, xenon2, xenon3, xenon4, xenon5, xenon6]</replace>
+  <replace sel="/modules/module[@id='stor_xen']/category/@faction">[xenon, xenon1, xenon2, xenon3, xenon4, xenon5, xenon6]</replace>
+  <replace sel="/modules/module[@id='dockarea_xen']/category/@faction">[xenon, xenon1, xenon2, xenon3, xenon4, xenon5, xenon6]</replace>
+  <replace sel="/modules/module[@id='claim_xen']/category/@faction">[xenon, xenon1, xenon2, xenon3, xenon4, xenon5, xenon6]</replace>
+  <replace sel="/modules/module[@id='build_xen']/category/@faction">[xenon, xenon1, xenon2, xenon3, xenon4, xenon5, xenon6]</replace>
+</diff>

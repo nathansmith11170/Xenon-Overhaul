@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<diff>
+  <replace sel="/mdscript/cues/comment()[3]">
+    <!--
+      The Feedback Manager contains a table of feedback values related to this Generic Mission. 
+		  This table is 'const' during the mission (the table itself doesn't change anymore after inialization)
+	    There are several maintypes of feedback:
+        event:    Something which happens during a mission but does not cause it to end e.g. the mission being accepted
+        removed:  The mission offer was removed before acceptanceFF
+        success:  The mission was successfully completed by the player
+        failure:  The player failed the mission
+        error:    Something went wrong with the mission set-up or during the mission
+    -->
+  </replace>
+  <replace sel="/mdscript/cues/library[@name='Setup_FindCivilianStation']/actions/find_station/match/@owner">[faction.player, faction.xenon, faction.xenon1, faction.xenon2, faction.xenon3, faction.xenon4, faction.xenon5, faction.xenon6, faction.ownerless]</replace>
+  <replace sel="/mdscript/cues/library[@name='Setup_FindCivilianStation']/actions/do_if[@value='not $TargetStation'][1]/find_station/match/@owner">[faction.player, faction.xenon, faction.xenon1, faction.xenon2, faction.xenon3, faction.xenon4, faction.xenon5, faction.xenon6, faction.ownerless]</replace>
+  <replace sel="/mdscript/cues/library[@name='Setup_FindCivilianStation']/actions/do_if[@value='not $TargetStation'][2]/find_station/match/@owner">[faction.player, faction.xenon, faction.xenon1, faction.xenon2, faction.xenon3, faction.xenon4, faction.xenon5, faction.xenon6, faction.ownerless]</replace>
+</diff>

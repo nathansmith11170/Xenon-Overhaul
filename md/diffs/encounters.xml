@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<diff>
+  <replace sel="/mdscript/cues/cue[@name='Lone_Plunderer']/cues/cue[@name='Lone_Plunderer_New_Encounter_Check']/actions/do_if[@value='Manager.$EncounterInstances lt 5']/do_if/do_if/do_if/@value">player.sector.owner.primaryrace != race.xenon</replace>
+  <replace sel="/mdscript/cues/cue[@name='Resource_Scout_Low']/cues/cue[@name='Resource_Scout_Low_New_Encounter_Check']/actions/do_if[@value='Manager.$EncounterInstances lt 5']/do_if/do_if/do_if/@value">player.sector.owner.primaryrace != race.xenon</replace>
+  <replace sel="/mdscript/cues/cue[@name='Lone_Miner']/cues/cue[@name='Lone_Miner_New_Encounter_Check']/actions/do_if[@value='Manager.$EncounterInstances lt 5']/do_if/do_if/do_if/@value">player.sector.owner.primaryrace != race.xenon</replace>
+  <replace sel="/mdscript/cues/cue[@name='Mining_Group_Small']/cues/cue[@name='Mining_Group_Small_New_Encounter_Check']/actions/do_if[@value='Manager.$EncounterInstances lt 5']/do_if/do_if/do_if/@value">player.sector.owner.primaryrace != race.xenon</replace>
+  <replace sel="/mdscript/cues/cue[@name='Mining_Group_Large']/cues/cue[@name='Mining_Group_Large_New_Encounter_Check']/actions/do_if[@value='Manager.$EncounterInstances lt 5']/do_if/do_if/do_if/@value">player.sector.owner.primaryrace != race.xenon</replace>
+</diff>

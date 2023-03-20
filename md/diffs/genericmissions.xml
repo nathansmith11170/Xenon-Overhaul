@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<diff>
+  <replace sel="/mdscript/cues/cue[@name='Manager']/actions/set_value[@name='$DefaultExcludedOfferFactions']/@exact">[faction.player, faction.xenon, faction.xenon1, faction.xenon2, faction.xenon3, faction.xenon4, faction.xenon5, faction.xenon6, faction.khaak, faction.criminal, faction.civilian, faction.ownerless]</replace>
+  <replace sel="/mdscript/cues/cue[@name='Manager']/patch[@sinceversion='3']/set_value/@exact">[faction.player, faction.xenon, faction.xenon1, faction.xenon2, faction.xenon3, faction.xenon4, faction.xenon5, faction.xenon6, faction.khaak, faction.criminal, faction.civilian, faction.ownerless]</replace>
+  <replace sel="/mdscript/cues/cue[@name='Manager']/cues/cue[@name='EvaluateSectorMissions']/actions/do_if/find_station/match/@owner">[faction.player, faction.khaak, faction.xenon, faction.xenon1, faction.xenon2, faction.xenon3, faction.xenon4, faction.xenon5, faction.xenon6, faction.ownerless]</replace>
+</diff>

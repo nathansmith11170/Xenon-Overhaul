@@ -1,0 +1,122 @@
+<?xml version='1.0' encoding='utf-8'?>
+<diff>
+    <!-- Xenon 0, Matrix #79B -->
+    <replace sel="/god/stations/station[@id='shipyard_xenon_cluster_33']/@owner">xenon</replace>
+    <replace sel="/god/stations/station[@id='shipyard_xenon_cluster_33']/station/select/@faction">xenon</replace>
+    <replace sel="/god/stations/station[@id='wharf_xenon_cluster_33']/@owner">xenon</replace>
+    <replace sel="/god/stations/station[@id='wharf_xenon_cluster_33']/station/select/@faction">xenon</replace>
+    <replace sel="/god/stations/station[@id='xen_79B_smallstation_01']/@owner">xenon</replace>
+    <replace sel="/god/stations/station[@id='xen_79B_smallstation_02']/@owner">xenon</replace>
+    <replace sel="/god/stations/station[@id='xen_79B_smallstation_03']/@owner">xenon</replace>
+    <replace sel="/god/stations/station[@id='xen_79B_smallstation_04']/@owner">xenon</replace>
+    <replace sel="/god/stations/station[@id='xen_79B_smallstation_05']/@owner">xenon</replace>
+    <replace sel="/god/stations/station[@id='xen_79B_smallstation_06']/@owner">xenon</replace>
+    <replace sel="/god/stations/station[@id='xen_tc_asteroidbase_01']/@owner">xenon</replace>
+    <replace sel="/god/stations/station[@id='xen_tc_asteroidbase_02']/@owner">xenon</replace>
+    <replace sel="/god/stations/station[@id='xen_tc_asteroidbase_03']/@owner">xenon</replace>
+    <replace sel="/god/stations/station[@id='xen_tc_asteroidbase_04']/@owner">xenon</replace>
+    <replace sel="/god/stations/station[@id='xen_tc_asteroidturret_01']/@owner">xenon</replace>
+    <replace sel="/god/stations/station[@id='xen_tc_asteroidturret_02']/@owner">xenon</replace>
+    <replace sel="/god/stations/station[@id='xen_tc_asteroidturret_03']/@owner">xenon</replace>
+    <replace sel="/god/stations/station[@id='xen_tc_asteroidturret_04']/@owner">xenon</replace>
+    <replace sel="/god/stations/station[@id='xen_tc_asteroidturret_05']/@owner">xenon</replace>
+    <replace sel="/god/stations/station[@id='xen_tc_smallstation_01']/@owner">xenon</replace>
+    <replace sel="/god/stations/station[@id='xen_tc_smallstation_02']/@owner">xenon</replace>
+    <replace sel="/god/stations/station[@id='xen_tc_smallstation_03']/@owner">xenon</replace>
+    <replace sel="/god/stations/station[@id='xen_tc_smallstation_04']/@owner">xenon</replace>
+    <replace sel="/god/stations/station[@id='xen_defence_cluster_32_sector001']/@owner">xenon</replace>
+    <replace sel="/god/stations/station[@id='xen_defence_cluster_32_sector001']/station/select/@faction">xenon</replace>
+    <replace sel="/god/stations/station[@id='xen_defence_cluster_32_sector002']/@owner">xenon</replace>
+    <replace sel="/god/stations/station[@id='xen_defence_cluster_32_sector002']/station/select/@faction">xenon</replace>
+    <replace sel="/god/stations/station[@id='xen_defence_cluster_33_sector001']/@owner">xenon</replace>
+    <replace sel="/god/stations/station[@id='xen_defence_cluster_33_sector001']/station/select/@faction">xenon</replace>
+
+    <!-- Xenon 1, Matrix #598 -->
+    <replace sel="/god/stations/station[@id='xen_defence_cluster_414_sector001']/@owner">xenon1</replace>
+    <replace sel="/god/stations/station[@id='xen_defence_cluster_414_sector001']/station/select/@faction">xenon1
+    </replace>
+    <replace sel="/god/stations/station[@id='xen_defence_cluster_415_sector001']/@owner">xenon1</replace>
+    <replace sel="/god/stations/station[@id='xen_defence_cluster_415_sector001']/station/select/@faction">xenon1
+    </replace>
+    <replace sel="/god/stations/station[@id='shipyard_xenon_cluster_415']/@owner">xenon1</replace>
+    <replace sel="/god/stations/station[@id='shipyard_xenon_cluster_415']/station/select/@faction">xenon1</replace>
+    <replace sel="/god/stations/station[@id='wharf_xenon_cluster_415']/@owner">xenon1</replace>
+    <replace sel="/god/stations/station[@id='wharf_xenon_cluster_415']/station/select/@faction">xenon1</replace>
+
+    <!-- Xenon 2, Emperor's Pride VI -->
+    <replace sel="/god/stations/station[@id='xen_defence_cluster_424_sector001']/@owner">xenon2</replace>
+    <replace sel="/god/stations/station[@id='xen_defence_cluster_424_sector001']/station/select/@faction">xenon2
+    </replace>
+    <replace sel="/god/stations/station[@id='xen_defence_cluster_424_sector002']/@owner">xenon2</replace>
+    <replace sel="/god/stations/station[@id='xen_defence_cluster_424_sector002']/station/select/@faction">xenon2
+    </replace>
+    <replace sel="/god/stations/station[@id='shipyard_xenon_cluster_424']/@owner">xenon2</replace>
+    <replace sel="/god/stations/station[@id='shipyard_xenon_cluster_424']/station/select/@faction">xenon2</replace>
+    <replace sel="/god/stations/station[@id='wharf_xenon_cluster_424']/@owner">xenon2</replace>
+    <replace sel="/god/stations/station[@id='wharf_xenon_cluster_424']/station/select/@faction">xenon2</replace>
+
+    <!-- Xenon 3, Savage Spur -->
+    <replace sel="/god/stations/station[@id='xen_defence_cluster_112_sector001']/@owner">xenon3</replace>
+    <replace sel="/god/stations/station[@id='xen_defence_cluster_112_sector001']/station/select/@faction">xenon3
+    </replace>
+    <replace sel="/god/stations/station[@id='xen_defence_cluster_112_sector002']/@owner">xenon3</replace>
+    <replace sel="/god/stations/station[@id='xen_defence_cluster_112_sector002']/station/select/@faction">xenon3
+    </replace>
+    <replace sel="/god/stations/station[@id='shipyard_xenon_cluster_112']/@owner">xenon3</replace>
+    <replace sel="/god/stations/station[@id='shipyard_xenon_cluster_112']/station/select/@faction">xenon3</replace>
+    <replace sel="/god/stations/station[@id='wharf_xenon_cluster_112']/@owner">xenon3</replace>
+    <replace sel="/god/stations/station[@id='wharf_xenon_cluster_112']/station/select/@faction">xenon3</replace>
+    <replace sel="/god/products/product[@id='xen_dlc_terran_energycells_cluster_112_sector001']/@owner">xenon3</replace>
+    <replace sel="/god/products/product[@id='xen_dlc_terran_energycells_cluster_112_sector001']/location/@faction">
+        xenon3
+    </replace>
+    <replace sel="/god/products/product[@id='xen_dlc_terran_energycells_cluster_112_sector002']/@owner">xenon3</replace>
+    <replace sel="/god/products/product[@id='xen_dlc_terran_energycells_cluster_112_sector002']/location/@faction">
+        xenon3
+    </replace>
+
+    <!-- Xenon 4, Atiya's Misfortune I -->
+    <replace sel="/god/stations/station[@id='shipyard_xenon_cluster_26']/@owner">xenon4</replace>
+    <replace sel="/god/stations/station[@id='shipyard_xenon_cluster_26']/station/select/@faction">xenon4</replace>
+    <replace sel="/god/stations/station[@id='wharf_xenon_cluster_26']/@owner">xenon4</replace>
+    <replace sel="/god/stations/station[@id='wharf_xenon_cluster_26']/station/select/@faction">xenon4</replace>
+    <replace sel="/god/stations/station[@id='xen_defence_cluster_25_sector001']/@owner">xenon4</replace>
+    <replace sel="/god/stations/station[@id='xen_defence_cluster_25_sector001']/station/select/@faction">xenon4
+    </replace>
+    <replace sel="/god/stations/station[@id='xen_defence_cluster_25_sector002']/@owner">xenon4</replace>
+    <replace sel="/god/stations/station[@id='xen_defence_cluster_25_sector002']/station/select/@faction">xenon4
+    </replace>
+    <replace sel="/god/stations/station[@id='xen_defence_cluster_26_sector001']/@owner">xenon4</replace>
+    <replace sel="/god/stations/station[@id='xen_defence_cluster_26_sector001']/station/select/@faction">xenon4
+    </replace>
+    <replace sel="/god/stations/station[@id='xen_defence_cluster_26_sector002']/@owner">xenon4</replace>
+    <replace sel="/god/stations/station[@id='xen_defence_cluster_26_sector002']/station/select/@faction">xenon4
+    </replace>
+
+    <!-- Xenon 5, Scale Plate Green -->
+    <replace sel="/god/stations/station[@id='shipyard_xenon_cluster_21']/@owner">xenon5</replace>
+    <replace sel="/god/stations/station[@id='shipyard_xenon_cluster_21']/station/select/@faction">xenon5</replace>
+    <replace sel="/god/stations/station[@id='wharf_xenon_cluster_21']/@owner">xenon5</replace>
+    <replace sel="/god/stations/station[@id='wharf_xenon_cluster_21']/station/select/@faction">xenon5</replace>
+    <replace sel="/god/stations/station[@id='xen_defence_cluster_21_sector001']/@owner">xenon5</replace>
+    <replace sel="/god/stations/station[@id='xen_defence_cluster_21_sector001']/station/select/@faction">xenon5
+    </replace>
+    <replace sel="/god/stations/station[@id='xen_defence_cluster_21_sector002']/@owner">xenon5</replace>
+    <replace sel="/god/stations/station[@id='xen_defence_cluster_21_sector002']/station/select/@faction">xenon5
+    </replace>
+
+    <!-- Xenon 6, Matrix #9 -->
+    <replace sel="/god/stations/station[@id='shipyard_xenon_cluster_17']/@owner">xenon6</replace>
+    <replace sel="/god/stations/station[@id='shipyard_xenon_cluster_17']/station/select/@faction">xenon6</replace>
+    <replace sel="/god/stations/station[@id='wharf_xenon_cluster_17']/@owner">xenon6</replace>
+    <replace sel="/god/stations/station[@id='wharf_xenon_cluster_17']/station/select/@faction">xenon6</replace>
+    <replace sel="/god/stations/station[@id='xen_defence_cluster_16_sector001']/@owner">xenon6</replace>
+    <replace sel="/god/stations/station[@id='xen_defence_cluster_16_sector001']/station/select/@faction">xenon6
+    </replace>
+    <replace sel="/god/stations/station[@id='xen_defence_cluster_17_sector001']/@owner">xenon6</replace>
+    <replace sel="/god/stations/station[@id='xen_defence_cluster_17_sector001']/station/select/@faction">xenon6
+    </replace>
+    <replace sel="/god/stations/station[@id='xen_defence_cluster_413_sector001']/@owner">xenon6</replace>
+    <replace sel="/god/stations/station[@id='xen_defence_cluster_413_sector001']/station/select/@faction">xenon6
+    </replace>
+</diff>

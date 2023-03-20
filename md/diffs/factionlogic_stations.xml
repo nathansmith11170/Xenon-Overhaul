@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<diff>
+  <replace sel="/mdscript/cues/library/cues/cue[@name='Process']/cues/cue[@name='Analyse_Stations']/actions/do_elseif[@value='$Faction == faction.xenon'][1]/set_value/@exact">2</replace>
+  <add sel="/mdscript/cues/library/cues/cue[@name='Process']/cues/cue[@name='Analyse_Stations']/actions/do_elseif[@value='$Faction == faction.buccaneers and @md.FactionLogic.BuccaneersFactionLogic_Manager.$ParanidStory_Stage2']" pos="before">
+    <do_elseif value="$Faction == faction.xenon1">
+      <set_value name="$DesiredShipyards" exact="2"/>
+    </do_elseif>
+  </add>
+  <add sel="/mdscript/cues/library/cues/cue[@name='Process']/cues/cue[@name='Analyse_Stations']/actions/do_elseif[@value='$Faction == faction.buccaneers and @md.FactionLogic.BuccaneersFactionLogic_Manager.$ParanidStory_Stage2']" pos="before">
+    <do_elseif value="$Faction == faction.xenon2">
+      <set_value name="$DesiredShipyards" exact="2"/>
+    </do_elseif>
+  </add>
+  <add sel="/mdscript/cues/library/cues/cue[@name='Process']/cues/cue[@name='Analyse_Stations']/actions/do_elseif[@value='$Faction == faction.buccaneers and @md.FactionLogic.BuccaneersFactionLogic_Manager.$ParanidStory_Stage2']" pos="before">
+    <do_elseif value="$Faction == faction.xenon3">
+      <set_value name="$DesiredShipyards" exact="2"/>
+    </do_elseif>
+  </add>
+  <add sel="/mdscript/cues/library/cues/cue[@name='Process']/cues/cue[@name='Analyse_Stations']/actions/do_elseif[@value='$Faction == faction.buccaneers and @md.FactionLogic.BuccaneersFactionLogic_Manager.$ParanidStory_Stage2']" pos="before">
+    <do_elseif value="$Faction == faction.xenon4">
+      <set_value name="$DesiredShipyards" exact="2"/>
+    </do_elseif>
+  </add>
+  <add sel="/mdscript/cues/library/cues/cue[@name='Process']/cues/cue[@name='Analyse_Stations']/actions/do_elseif[@value='$Faction == faction.buccaneers and @md.FactionLogic.BuccaneersFactionLogic_Manager.$ParanidStory_Stage2']" pos="before">
+    <do_elseif value="$Faction == faction.xenon5">
+      <set_value name="$DesiredShipyards" exact="2"/>
+    </do_elseif>
+  </add>
+  <add sel="/mdscript/cues/library/cues/cue[@name='Process']/cues/cue[@name='Analyse_Stations']/actions/do_elseif[@value='$Faction == faction.buccaneers and @md.FactionLogic.BuccaneersFactionLogic_Manager.$ParanidStory_Stage2']" pos="before">
+    <do_elseif value="$Faction == faction.xenon6">
+      <set_value name="$DesiredShipyards" exact="2"/>
+    </do_elseif>
+  </add>
+  <remove sel="/mdscript/cues/library/cues/cue[@name='Process']/cues/cue[@name='Analyse_Stations']/actions/comment()[4]"/>
+  <remove sel="/mdscript/cues/library/cues/cue[@name='Process']/cues/cue[@name='Analyse_Stations']/actions/do_if[@value='$Faction == faction.xenon'][1]"/>
+  <remove sel="/mdscript/cues/library/cues/cue[@name='Process']/cues/cue[@name='Analyse_Stations']/actions/do_elseif[@value='$Faction == faction.split or $Faction == faction.freesplit'][1]"/>
+  <remove sel="/mdscript/cues/library/cues/cue[@name='Process']/cues/cue[@name='Analyse_Stations']/actions/comment()[4]"/>
+  <remove sel="/mdscript/cues/library/cues/cue[@name='Process']/cues/cue[@name='Analyse_Stations']/actions/do_if[@value='$Faction == faction.xenon']"/>
+  <replace sel="/mdscript/cues/library/cues/cue[@name='Process']/cues/cue[@name='Analyse_Stations']/actions/do_elseif[@value='$Faction == faction.xenon'][2]/set_value/@exact">2</replace>
+  <add sel="/mdscript/cues/library/cues/cue[@name='Process']/cues/cue[@name='Analyse_Stations']/actions/comment()[5]" pos="before">
+    <do_elseif value="$Faction == faction.xenon1">
+      <set_value name="$DesiredWharfs" exact="2"/>
+    </do_elseif>
+  </add>
+  <add sel="/mdscript/cues/library/cues/cue[@name='Process']/cues/cue[@name='Analyse_Stations']/actions/comment()[5]" pos="before">
+    <do_elseif value="$Faction == faction.xenon2">
+      <set_value name="$DesiredWharfs" exact="2"/>
+    </do_elseif>
+  </add>
+  <add sel="/mdscript/cues/library/cues/cue[@name='Process']/cues/cue[@name='Analyse_Stations']/actions/comment()[5]" pos="before">
+    <do_elseif value="$Faction == faction.xenon3">
+      <set_value name="$DesiredWharfs" exact="2"/>
+    </do_elseif>
+  </add>
+  <add sel="/mdscript/cues/library/cues/cue[@name='Process']/cues/cue[@name='Analyse_Stations']/actions/comment()[5]" pos="before">
+    <do_elseif value="$Faction == faction.xenon4">
+      <set_value name="$DesiredWharfs" exact="2"/>
+    </do_elseif>
+  </add>
+  <add sel="/mdscript/cues/library/cues/cue[@name='Process']/cues/cue[@name='Analyse_Stations']/actions/comment()[5]" pos="before">
+    <do_elseif value="$Faction == faction.xenon5">
+      <set_value name="$DesiredWharfs" exact="2"/>
+    </do_elseif>
+  </add>
+  <add sel="/mdscript/cues/library/cues/cue[@name='Process']/cues/cue[@name='Analyse_Stations']/actions/comment()[5]" pos="before">
+    <do_elseif value="$Faction == faction.xenon6">
+      <set_value name="$DesiredWharfs" exact="2"/>
+    </do_elseif>
+  </add>
+  <remove sel="/mdscript/cues/library/cues/cue[@name='Process']/cues/cue[@name='Analyse_Stations']/actions/comment()[6]"/>
+  <remove sel="/mdscript/cues/library/cues/cue[@name='Process']/cues/cue[@name='Analyse_Stations']/actions/do_elseif[@value='$Faction == faction.xenon'][3]"/>
+  <remove sel="/mdscript/cues/library/cues/cue[@name='Process']/cues/cue[@name='Analyse_Stations']/actions/do_elseif[@value='$Faction == faction.xenon'][3]"/>
+</diff>

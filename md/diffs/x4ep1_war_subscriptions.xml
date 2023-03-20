@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<diff>
+  <replace sel="/mdscript/cues/cue[@name='Start']/cues/cue[@name='DefineNonSubscriptionWars']/actions/set_value[@name='$NonSubscriptionWars.{faction.antigone}']/@exact">[faction.holyorder, faction.xenon, faction.xenon1, faction.xenon2, faction.xenon3, faction.xenon4, faction.xenon5, faction.xenon6]</replace>
+  <replace sel="/mdscript/cues/cue[@name='Start']/cues/cue[@name='DefineNonSubscriptionWars']/actions/set_value[@name='$NonSubscriptionWars.{faction.holyorder}']/@exact">[faction.antigone, faction.ministry, faction.teladi, faction.xenon, faction.xenon1, faction.xenon2, faction.xenon3, faction.xenon4, faction.xenon5, faction.xenon6]</replace>
+  <replace sel="/mdscript/cues/cue[@name='Start']/cues/cue[@name='DefineNonSubscriptionWars']/actions/set_value[@name='$NonSubscriptionWars.{faction.ministry}']/@exact">[faction.holyorder, faction.xenon, faction.xenon1, faction.xenon2, faction.xenon3, faction.xenon4, faction.xenon5, faction.xenon6]</replace>
+  <replace sel="/mdscript/cues/cue[@name='Start']/cues/cue[@name='DefineNonSubscriptionWars']/actions/set_value[@name='$NonSubscriptionWars.{faction.teladi}']/@exact">[faction.holyorder, faction.xenon, faction.xenon1, faction.xenon2, faction.xenon3, faction.xenon4, faction.xenon5, faction.xenon6]</replace>
+</diff>

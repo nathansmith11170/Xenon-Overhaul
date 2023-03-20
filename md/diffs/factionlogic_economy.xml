@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
+<diff>
+  <replace sel="/mdscript/cues/library[@name='Econ_Manager']/cues/cue[@name='Request_Production_Module']/actions/do_else/do_elseif/do_if[@value='$WantedProductions.count']/do_if/@value">$Station.owner.primaryrace != race.xenon</replace>
+</diff>

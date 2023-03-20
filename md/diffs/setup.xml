@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<diff>
+  <add sel="/mdscript/cues/cue[@name='Start']/actions/get_ware_definition[@faction='faction.trinity']" pos="before">
+    <get_ware_definition result="md.$EquipmentTable.{faction.xenon1}" faction="faction.xenon1" flags="equipment"/>
+  </add>
+  <add sel="/mdscript/cues/cue[@name='Start']/actions/get_ware_definition[@faction='faction.trinity']" pos="before">
+    <get_ware_definition result="md.$EquipmentTable.{faction.xenon2}" faction="faction.xenon2" flags="equipment"/>
+  </add>
+  <add sel="/mdscript/cues/cue[@name='Start']/actions/get_ware_definition[@faction='faction.trinity']" pos="before">
+    <get_ware_definition result="md.$EquipmentTable.{faction.xenon3}" faction="faction.xenon3" flags="equipment"/>
+  </add>
+  <add sel="/mdscript/cues/cue[@name='Start']/actions/get_ware_definition[@faction='faction.trinity']" pos="before">
+    <get_ware_definition result="md.$EquipmentTable.{faction.xenon4}" faction="faction.xenon4" flags="equipment"/>
+  </add>
+  <add sel="/mdscript/cues/cue[@name='Start']/actions/get_ware_definition[@faction='faction.trinity']" pos="before">
+    <get_ware_definition result="md.$EquipmentTable.{faction.xenon5}" faction="faction.xenon5" flags="equipment"/>
+  </add>
+  <add sel="/mdscript/cues/cue[@name='Start']/actions/get_ware_definition[@faction='faction.trinity']" pos="before">
+    <get_ware_definition result="md.$EquipmentTable.{faction.xenon6}" faction="faction.xenon6" flags="equipment"/>
+  </add>
+</diff>

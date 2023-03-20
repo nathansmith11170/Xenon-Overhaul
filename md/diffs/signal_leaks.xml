@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<diff>
+  <replace sel="/mdscript/cues/cue[@name='Manager']/@version">5</replace>
+  <add sel="/mdscript/cues/cue[@name='Manager']/cues" pos="before">
+    <patch sinceversion="5">
+      <append_to_list name="$ExcludedLeakFactions" exact="faction.xenon1"/>
+      <append_to_list name="$ExcludedLeakFactions" exact="faction.xenon2"/>
+      <append_to_list name="$ExcludedLeakFactions" exact="faction.xenon3"/>
+      <append_to_list name="$ExcludedLeakFactions" exact="faction.xenon4"/>
+      <append_to_list name="$ExcludedLeakFactions" exact="faction.xenon5"/>
+      <append_to_list name="$ExcludedLeakFactions" exact="faction.xenon6"/>
+    </patch>
+  </add>
+  <replace sel="/mdscript/cues/cue[@name='Manager']/cues/library/actions/append_list_elements/@other">[faction.player, faction.xenon, faction.xenon1, faction.xenon2, faction.xenon3, faction.xenon4, faction.xenon5, faction.xenon6, faction.khaak]</replace>
+</diff>

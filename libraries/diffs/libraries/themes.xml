@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
+<diff>
+  <replace sel="/themes/theme[@id='painttheme_race_default']/group[@paintmod='paintmod_0001'][@faction='xenon']/@faction">[xenon, xenon1, xenon2, xenon3, xenon4, xenon5, xenon6]</replace>
+</diff>

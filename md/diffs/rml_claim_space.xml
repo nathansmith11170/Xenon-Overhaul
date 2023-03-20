@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
+<diff>
+  <replace sel="/mdscript/cues/library/cues/cue[@name='StartMission']/cues/cue[@name='DebugClaimSpace']/actions/do_any/set_owner[@faction='faction.xenon']/@faction">[faction.xenon, faction.xenon1, faction.xenon2, faction.xenon3, faction.xenon4, faction.xenon5, faction.xenon6]</replace>
+</diff>

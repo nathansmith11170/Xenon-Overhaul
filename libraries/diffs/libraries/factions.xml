@@ -1,0 +1,819 @@
+<?xml version='1.0' encoding='utf-8'?>
+<diff>
+    <add sel="/factions/faction[@id='player']/relations/relation[@relation='-0.0032'][@faction='fallensplit']"
+         pos="before">
+        <relation faction="xenon1" relation="-1"/>
+    </add>
+    <add sel="/factions/faction[@id='player']/relations/relation[@relation='-0.0032'][@faction='fallensplit']"
+         pos="before">
+        <relation faction="xenon2" relation="-1"/>
+    </add>
+    <add sel="/factions/faction[@id='player']/relations/relation[@relation='-0.0032'][@faction='fallensplit']"
+         pos="before">
+        <relation faction="xenon3" relation="-1"/>
+    </add>
+    <add sel="/factions/faction[@id='player']/relations/relation[@relation='-0.0032'][@faction='fallensplit']"
+         pos="before">
+        <relation faction="xenon4" relation="-1"/>
+    </add>
+    <add sel="/factions/faction[@id='player']/relations/relation[@relation='-0.0032'][@faction='fallensplit']"
+         pos="before">
+        <relation faction="xenon5" relation="-1"/>
+    </add>
+    <add sel="/factions/faction[@id='player']/relations/relation[@relation='-0.0032'][@faction='fallensplit']"
+         pos="before">
+        <relation faction="xenon6" relation="-1"/>
+    </add>
+    <add sel="/factions/faction[@id='alliance']/relations/relation[@relation='0.011']" pos="before">
+        <relation faction="xenon1" relation="-1"/>
+    </add>
+    <add sel="/factions/faction[@id='alliance']/relations/relation[@relation='0.011']" pos="before">
+        <relation faction="xenon2" relation="-1"/>
+    </add>
+    <add sel="/factions/faction[@id='alliance']/relations/relation[@relation='0.011']" pos="before">
+        <relation faction="xenon3" relation="-1"/>
+    </add>
+    <add sel="/factions/faction[@id='alliance']/relations/relation[@relation='0.011']" pos="before">
+        <relation faction="xenon4" relation="-1"/>
+    </add>
+    <add sel="/factions/faction[@id='alliance']/relations/relation[@relation='0.011']" pos="before">
+        <relation faction="xenon5" relation="-1"/>
+    </add>
+    <add sel="/factions/faction[@id='alliance']/relations/relation[@relation='0.011']" pos="before">
+        <relation faction="xenon6" relation="-1"/>
+    </add>
+    <add sel="/factions/faction[@id='antigone']/relations/relation[@relation='-0.011'][@faction='court']" pos="before">
+        <relation faction="xenon1" relation="-1"/>
+    </add>
+    <add sel="/factions/faction[@id='antigone']/relations/relation[@relation='-0.011'][@faction='court']" pos="before">
+        <relation faction="xenon2" relation="-1"/>
+    </add>
+    <add sel="/factions/faction[@id='antigone']/relations/relation[@relation='-0.011'][@faction='court']" pos="before">
+        <relation faction="xenon3" relation="-1"/>
+    </add>
+    <add sel="/factions/faction[@id='antigone']/relations/relation[@relation='-0.011'][@faction='court']" pos="before">
+        <relation faction="xenon4" relation="-1"/>
+    </add>
+    <add sel="/factions/faction[@id='antigone']/relations/relation[@relation='-0.011'][@faction='court']" pos="before">
+        <relation faction="xenon5" relation="-1"/>
+    </add>
+    <add sel="/factions/faction[@id='antigone']/relations/relation[@relation='-0.011'][@faction='court']" pos="before">
+        <relation faction="xenon6" relation="-1"/>
+    </add>
+    <add sel="/factions/faction[@id='argon']/relations/relation[@relation='-0.011'][@faction='court']" pos="before">
+        <relation faction="xenon1" relation="-1"/>
+    </add>
+    <add sel="/factions/faction[@id='argon']/relations/relation[@relation='-0.011'][@faction='court']" pos="before">
+        <relation faction="xenon2" relation="-1"/>
+    </add>
+    <add sel="/factions/faction[@id='argon']/relations/relation[@relation='-0.011'][@faction='court']" pos="before">
+        <relation faction="xenon3" relation="-1"/>
+    </add>
+    <add sel="/factions/faction[@id='argon']/relations/relation[@relation='-0.011'][@faction='court']" pos="before">
+        <relation faction="xenon4" relation="-1"/>
+    </add>
+    <add sel="/factions/faction[@id='argon']/relations/relation[@relation='-0.011'][@faction='court']" pos="before">
+        <relation faction="xenon5" relation="-1"/>
+    </add>
+    <add sel="/factions/faction[@id='argon']/relations/relation[@relation='-0.011'][@faction='court']" pos="before">
+        <relation faction="xenon6" relation="-1"/>
+    </add>
+    <add sel="/factions/faction[@id='buccaneers']/relations/relation[@relation='-0.032'][@faction='court']"
+         pos="before">
+        <relation faction="xenon1" relation="-1"/>
+    </add>
+    <add sel="/factions/faction[@id='buccaneers']/relations/relation[@relation='-0.032'][@faction='court']"
+         pos="before">
+        <relation faction="xenon2" relation="-1"/>
+    </add>
+    <add sel="/factions/faction[@id='buccaneers']/relations/relation[@relation='-0.032'][@faction='court']"
+         pos="before">
+        <relation faction="xenon3" relation="-1"/>
+    </add>
+    <add sel="/factions/faction[@id='buccaneers']/relations/relation[@relation='-0.032'][@faction='court']"
+         pos="before">
+        <relation faction="xenon4" relation="-1"/>
+    </add>
+    <add sel="/factions/faction[@id='buccaneers']/relations/relation[@relation='-0.032'][@faction='court']"
+         pos="before">
+        <relation faction="xenon5" relation="-1"/>
+    </add>
+    <add sel="/factions/faction[@id='buccaneers']/relations/relation[@relation='-0.032'][@faction='court']"
+         pos="before">
+        <relation faction="xenon6" relation="-1"/>
+    </add>
+    <add sel="/factions/faction[@id='civilian']/relations/relation[@relation='0.032']" pos="before">
+        <relation faction="xenon1" relation="-1"/>
+    </add>
+    <add sel="/factions/faction[@id='civilian']/relations/relation[@relation='0.032']" pos="before">
+        <relation faction="xenon2" relation="-1"/>
+    </add>
+    <add sel="/factions/faction[@id='civilian']/relations/relation[@relation='0.032']" pos="before">
+        <relation faction="xenon3" relation="-1"/>
+    </add>
+    <add sel="/factions/faction[@id='civilian']/relations/relation[@relation='0.032']" pos="before">
+        <relation faction="xenon4" relation="-1"/>
+    </add>
+    <add sel="/factions/faction[@id='civilian']/relations/relation[@relation='0.032']" pos="before">
+        <relation faction="xenon5" relation="-1"/>
+    </add>
+    <add sel="/factions/faction[@id='civilian']/relations/relation[@relation='0.032']" pos="before">
+        <relation faction="xenon6" relation="-1"/>
+    </add>
+    <add sel="/factions/faction[@id='criminal']/relations/relation[@relation='-0.5'][@faction='court']" pos="before">
+        <relation faction="xenon1" relation="-1"/>
+    </add>
+    <add sel="/factions/faction[@id='criminal']/relations/relation[@relation='-0.5'][@faction='court']" pos="before">
+        <relation faction="xenon2" relation="-1"/>
+    </add>
+    <add sel="/factions/faction[@id='criminal']/relations/relation[@relation='-0.5'][@faction='court']" pos="before">
+        <relation faction="xenon3" relation="-1"/>
+    </add>
+    <add sel="/factions/faction[@id='criminal']/relations/relation[@relation='-0.5'][@faction='court']" pos="before">
+        <relation faction="xenon4" relation="-1"/>
+    </add>
+    <add sel="/factions/faction[@id='criminal']/relations/relation[@relation='-0.5'][@faction='court']" pos="before">
+        <relation faction="xenon5" relation="-1"/>
+    </add>
+    <add sel="/factions/faction[@id='criminal']/relations/relation[@relation='-0.5'][@faction='court']" pos="before">
+        <relation faction="xenon6" relation="-1"/>
+    </add>
+    <add sel="/factions/faction[@id='hatikvah']/relations/relation[@relation='0.011']" pos="before">
+        <relation faction="xenon1" relation="-1"/>
+    </add>
+    <add sel="/factions/faction[@id='hatikvah']/relations/relation[@relation='0.011']" pos="before">
+        <relation faction="xenon2" relation="-1"/>
+    </add>
+    <add sel="/factions/faction[@id='hatikvah']/relations/relation[@relation='0.011']" pos="before">
+        <relation faction="xenon3" relation="-1"/>
+    </add>
+    <add sel="/factions/faction[@id='hatikvah']/relations/relation[@relation='0.011']" pos="before">
+        <relation faction="xenon4" relation="-1"/>
+    </add>
+    <add sel="/factions/faction[@id='hatikvah']/relations/relation[@relation='0.011']" pos="before">
+        <relation faction="xenon5" relation="-1"/>
+    </add>
+    <add sel="/factions/faction[@id='hatikvah']/relations/relation[@relation='0.011']" pos="before">
+        <relation faction="xenon6" relation="-1"/>
+    </add>
+    <add sel="/factions/faction[@id='holyorder']/relations/relation[@relation='-0.32'][@faction='fallensplit']"
+         pos="before">
+        <relation faction="xenon1" relation="-1"/>
+    </add>
+    <add sel="/factions/faction[@id='holyorder']/relations/relation[@relation='-0.32'][@faction='fallensplit']"
+         pos="before">
+        <relation faction="xenon2" relation="-1"/>
+    </add>
+    <add sel="/factions/faction[@id='holyorder']/relations/relation[@relation='-0.32'][@faction='fallensplit']"
+         pos="before">
+        <relation faction="xenon3" relation="-1"/>
+    </add>
+    <add sel="/factions/faction[@id='holyorder']/relations/relation[@relation='-0.32'][@faction='fallensplit']"
+         pos="before">
+        <relation faction="xenon4" relation="-1"/>
+    </add>
+    <add sel="/factions/faction[@id='holyorder']/relations/relation[@relation='-0.32'][@faction='fallensplit']"
+         pos="before">
+        <relation faction="xenon5" relation="-1"/>
+    </add>
+    <add sel="/factions/faction[@id='holyorder']/relations/relation[@relation='-0.32'][@faction='fallensplit']"
+         pos="before">
+        <relation faction="xenon6" relation="-1"/>
+    </add>
+    <add sel="/factions/faction[@id='holyorderfanatic']/relations/relation[@relation='-0.1']" pos="before">
+        <relation faction="xenon1" relation="-1"/>
+    </add>
+    <add sel="/factions/faction[@id='holyorderfanatic']/relations/relation[@relation='-0.1']" pos="before">
+        <relation faction="xenon2" relation="-1"/>
+    </add>
+    <add sel="/factions/faction[@id='holyorderfanatic']/relations/relation[@relation='-0.1']" pos="before">
+        <relation faction="xenon3" relation="-1"/>
+    </add>
+    <add sel="/factions/faction[@id='holyorderfanatic']/relations/relation[@relation='-0.1']" pos="before">
+        <relation faction="xenon4" relation="-1"/>
+    </add>
+    <add sel="/factions/faction[@id='holyorderfanatic']/relations/relation[@relation='-0.1']" pos="before">
+        <relation faction="xenon5" relation="-1"/>
+    </add>
+    <add sel="/factions/faction[@id='holyorderfanatic']/relations/relation[@relation='-0.1']" pos="before">
+        <relation faction="xenon6" relation="-1"/>
+    </add>
+    <add sel="/factions/faction[@id='khaak']/relations/relation[@relation='-1'][@faction='court']" pos="before">
+        <relation faction="xenon1" relation="-1"/>
+    </add>
+    <add sel="/factions/faction[@id='khaak']/relations/relation[@relation='-1'][@faction='court']" pos="before">
+        <relation faction="xenon2" relation="-1"/>
+    </add>
+    <add sel="/factions/faction[@id='khaak']/relations/relation[@relation='-1'][@faction='court']" pos="before">
+        <relation faction="xenon3" relation="-1"/>
+    </add>
+    <add sel="/factions/faction[@id='khaak']/relations/relation[@relation='-1'][@faction='court']" pos="before">
+        <relation faction="xenon4" relation="-1"/>
+    </add>
+    <add sel="/factions/faction[@id='khaak']/relations/relation[@relation='-1'][@faction='court']" pos="before">
+        <relation faction="xenon5" relation="-1"/>
+    </add>
+    <add sel="/factions/faction[@id='khaak']/relations/relation[@relation='-1'][@faction='court']" pos="before">
+        <relation faction="xenon6" relation="-1"/>
+    </add>
+    <add sel="/factions/faction[@id='ministry']/relations/relation[@relation='-0.32'][@faction='fallensplit']"
+         pos="before">
+        <relation faction="xenon1" relation="-1"/>
+    </add>
+    <add sel="/factions/faction[@id='ministry']/relations/relation[@relation='-0.32'][@faction='fallensplit']"
+         pos="before">
+        <relation faction="xenon2" relation="-1"/>
+    </add>
+    <add sel="/factions/faction[@id='ministry']/relations/relation[@relation='-0.32'][@faction='fallensplit']"
+         pos="before">
+        <relation faction="xenon3" relation="-1"/>
+    </add>
+    <add sel="/factions/faction[@id='ministry']/relations/relation[@relation='-0.32'][@faction='fallensplit']"
+         pos="before">
+        <relation faction="xenon4" relation="-1"/>
+    </add>
+    <add sel="/factions/faction[@id='ministry']/relations/relation[@relation='-0.32'][@faction='fallensplit']"
+         pos="before">
+        <relation faction="xenon5" relation="-1"/>
+    </add>
+    <add sel="/factions/faction[@id='ministry']/relations/relation[@relation='-0.32'][@faction='fallensplit']"
+         pos="before">
+        <relation faction="xenon6" relation="-1"/>
+    </add>
+    <add sel="/factions/faction[@id='paranid']/relations/relation[@relation='-0.32'][@faction='fallensplit']"
+         pos="before">
+        <relation faction="xenon1" relation="-1"/>
+    </add>
+    <add sel="/factions/faction[@id='paranid']/relations/relation[@relation='-0.32'][@faction='fallensplit']"
+         pos="before">
+        <relation faction="xenon2" relation="-1"/>
+    </add>
+    <add sel="/factions/faction[@id='paranid']/relations/relation[@relation='-0.32'][@faction='fallensplit']"
+         pos="before">
+        <relation faction="xenon3" relation="-1"/>
+    </add>
+    <add sel="/factions/faction[@id='paranid']/relations/relation[@relation='-0.32'][@faction='fallensplit']"
+         pos="before">
+        <relation faction="xenon4" relation="-1"/>
+    </add>
+    <add sel="/factions/faction[@id='paranid']/relations/relation[@relation='-0.32'][@faction='fallensplit']"
+         pos="before">
+        <relation faction="xenon5" relation="-1"/>
+    </add>
+    <add sel="/factions/faction[@id='paranid']/relations/relation[@relation='-0.32'][@faction='fallensplit']"
+         pos="before">
+        <relation faction="xenon6" relation="-1"/>
+    </add>
+    <add sel="/factions/faction[@id='scaleplate']/relations/relation[@relation='-0.32'][@faction='court']" pos="before">
+        <relation faction="xenon1" relation="-1"/>
+    </add>
+    <add sel="/factions/faction[@id='scaleplate']/relations/relation[@relation='-0.32'][@faction='court']" pos="before">
+        <relation faction="xenon2" relation="-1"/>
+    </add>
+    <add sel="/factions/faction[@id='scaleplate']/relations/relation[@relation='-0.32'][@faction='court']" pos="before">
+        <relation faction="xenon3" relation="-1"/>
+    </add>
+    <add sel="/factions/faction[@id='scaleplate']/relations/relation[@relation='-0.32'][@faction='court']" pos="before">
+        <relation faction="xenon4" relation="-1"/>
+    </add>
+    <add sel="/factions/faction[@id='scaleplate']/relations/relation[@relation='-0.32'][@faction='court']" pos="before">
+        <relation faction="xenon5" relation="-1"/>
+    </add>
+    <add sel="/factions/faction[@id='scaleplate']/relations/relation[@relation='-0.32'][@faction='court']" pos="before">
+        <relation faction="xenon6" relation="-1"/>
+    </add>
+    <add sel="/factions/faction[@id='smuggler']/relations/relation[@relation='-0.06'][@faction='court']" pos="before">
+        <relation faction="xenon1" relation="-1"/>
+    </add>
+    <add sel="/factions/faction[@id='smuggler']/relations/relation[@relation='-0.06'][@faction='court']" pos="before">
+        <relation faction="xenon2" relation="-1"/>
+    </add>
+    <add sel="/factions/faction[@id='smuggler']/relations/relation[@relation='-0.06'][@faction='court']" pos="before">
+        <relation faction="xenon3" relation="-1"/>
+    </add>
+    <add sel="/factions/faction[@id='smuggler']/relations/relation[@relation='-0.06'][@faction='court']" pos="before">
+        <relation faction="xenon4" relation="-1"/>
+    </add>
+    <add sel="/factions/faction[@id='smuggler']/relations/relation[@relation='-0.06'][@faction='court']" pos="before">
+        <relation faction="xenon5" relation="-1"/>
+    </add>
+    <add sel="/factions/faction[@id='smuggler']/relations/relation[@relation='-0.06'][@faction='court']" pos="before">
+        <relation faction="xenon6" relation="-1"/>
+    </add>
+    <add sel="/factions/faction[@id='teladi']/relations/relation[@relation='-0.1'][@faction='fallensplit']"
+         pos="before">
+        <relation faction="xenon1" relation="-1"/>
+    </add>
+    <add sel="/factions/faction[@id='teladi']/relations/relation[@relation='-0.1'][@faction='fallensplit']"
+         pos="before">
+        <relation faction="xenon2" relation="-1"/>
+    </add>
+    <add sel="/factions/faction[@id='teladi']/relations/relation[@relation='-0.1'][@faction='fallensplit']"
+         pos="before">
+        <relation faction="xenon3" relation="-1"/>
+    </add>
+    <add sel="/factions/faction[@id='teladi']/relations/relation[@relation='-0.1'][@faction='fallensplit']"
+         pos="before">
+        <relation faction="xenon4" relation="-1"/>
+    </add>
+    <add sel="/factions/faction[@id='teladi']/relations/relation[@relation='-0.1'][@faction='fallensplit']"
+         pos="before">
+        <relation faction="xenon5" relation="-1"/>
+    </add>
+    <add sel="/factions/faction[@id='teladi']/relations/relation[@relation='-0.1'][@faction='fallensplit']"
+         pos="before">
+        <relation faction="xenon6" relation="-1"/>
+    </add>
+    <add sel="/factions/faction[@id='trinity']/relations/relation[@relation='-0.32'][@faction='fallensplit']"
+         pos="before">
+        <relation faction="xenon1" relation="-1"/>
+    </add>
+    <add sel="/factions/faction[@id='trinity']/relations/relation[@relation='-0.32'][@faction='fallensplit']"
+         pos="before">
+        <relation faction="xenon2" relation="-1"/>
+    </add>
+    <add sel="/factions/faction[@id='trinity']/relations/relation[@relation='-0.32'][@faction='fallensplit']"
+         pos="before">
+        <relation faction="xenon3" relation="-1"/>
+    </add>
+    <add sel="/factions/faction[@id='trinity']/relations/relation[@relation='-0.32'][@faction='fallensplit']"
+         pos="before">
+        <relation faction="xenon4" relation="-1"/>
+    </add>
+    <add sel="/factions/faction[@id='trinity']/relations/relation[@relation='-0.32'][@faction='fallensplit']"
+         pos="before">
+        <relation faction="xenon5" relation="-1"/>
+    </add>
+    <add sel="/factions/faction[@id='trinity']/relations/relation[@relation='-0.32'][@faction='fallensplit']"
+         pos="before">
+        <relation faction="xenon6" relation="-1"/>
+    </add>
+    <add sel="/factions/faction[@id='visitor']/relations">
+        <relation faction="xenon1" relation="-1"/>
+    </add>
+    <add sel="/factions/faction[@id='visitor']/relations">
+        <relation faction="xenon2" relation="-1"/>
+    </add>
+    <add sel="/factions/faction[@id='visitor']/relations">
+        <relation faction="xenon3" relation="-1"/>
+    </add>
+    <add sel="/factions/faction[@id='visitor']/relations">
+        <relation faction="xenon4" relation="-1"/>
+    </add>
+    <add sel="/factions/faction[@id='visitor']/relations">
+        <relation faction="xenon5" relation="-1"/>
+    </add>
+    <add sel="/factions/faction[@id='visitor']/relations">
+        <relation faction="xenon6" relation="-1"/>
+    </add>
+    <add sel="/factions/faction[@id='xenon']/relations">
+        <relation faction="xenon1" relation="1"/>
+    </add>
+    <add sel="/factions/faction[@id='xenon']/relations">
+        <relation faction="xenon2" relation="1"/>
+    </add>
+    <add sel="/factions/faction[@id='xenon']/relations">
+        <relation faction="xenon3" relation="1"/>
+    </add>
+    <add sel="/factions/faction[@id='xenon']/relations">
+        <relation faction="xenon4" relation="1"/>
+    </add>
+    <add sel="/factions/faction[@id='xenon']/relations">
+        <relation faction="xenon5" relation="1"/>
+    </add>
+    <add sel="/factions/faction[@id='xenon']/relations">
+        <relation faction="xenon6" relation="1"/>
+    </add>
+    <add sel="/factions/faction[@id='court']" pos="before">
+        <faction id="xenon1" name="{20203,1101}" description="{20203,1102}" shortname="{20203,1103}"
+                 prefixname="{20203,1104}" primaryrace="xenon" behaviourset="xenon"
+                 tags="claimspace notradeoffer privateloadout privateship">
+            <color r="201" g="0" b="0"/>
+            <icon active="faction_xenon" inactive="faction_xenon"/>
+            <relations locked="1">
+                <relation faction="alliance" relation="-1"/>
+                <relation faction="antigone" relation="-1"/>
+                <relation faction="argon" relation="-1"/>
+                <relation faction="buccaneers" relation="-1"/>
+                <relation faction="civilian" relation="-1"/>
+                <relation faction="criminal" relation="-1"/>
+                <relation faction="hatikvah" relation="-1"/>
+                <relation faction="holyorder" relation="-1"/>
+                <relation faction="holyorderfanatic" relation="-1"/>
+                <relation faction="khaak" relation="-1"/>
+                <relation faction="ministry" relation="-1"/>
+                <relation faction="paranid" relation="-1"/>
+                <relation faction="player" relation="-1"/>
+                <relation faction="scaleplate" relation="-1"/>
+                <relation faction="smuggler" relation="-1"/>
+                <relation faction="teladi" relation="-1"/>
+                <relation faction="trinity" relation="-1"/>
+                <relation faction="visitor" relation="-1"/>
+                <relation faction="court" relation="-1"/>
+                <relation faction="fallensplit" relation="-1"/>
+                <relation faction="freesplit" relation="-1"/>
+                <relation faction="split" relation="-1"/>
+                <relation faction="pioneers" relation="-1"/>
+                <relation faction="terran" relation="-1"/>
+                <relation faction="yaki" relation="-0.011"/>
+                <relation faction="loanshark" relation="-1"/>
+                <relation faction="scavenger" relation="-1"/>
+                <relation faction="xenon" relation="1"/>
+                <relation faction="xenon2" relation="1"/>
+                <relation faction="xenon3" relation="1"/>
+                <relation faction="xenon4" relation="1"/>
+                <relation faction="xenon5" relation="1"/>
+                <relation faction="xenon6" relation="1"/>
+            </relations>
+            <signals>
+                <response signal="policehalt" response="attack"/>
+            </signals>
+        </faction>
+    </add>
+    <add sel="/factions/faction[@id='court']" pos="before">
+        <faction id="xenon2" name="{20203,1101}" description="{20203,1102}" shortname="{20203,1103}"
+                 prefixname="{20203,1104}" primaryrace="xenon" behaviourset="xenon"
+                 tags="claimspace notradeoffer privateloadout privateship">
+            <color r="201" g="0" b="0"/>
+            <icon active="faction_xenon" inactive="faction_xenon"/>
+            <relations locked="1">
+                <relation faction="alliance" relation="-1"/>
+                <relation faction="antigone" relation="-1"/>
+                <relation faction="argon" relation="-1"/>
+                <relation faction="buccaneers" relation="-1"/>
+                <relation faction="civilian" relation="-1"/>
+                <relation faction="criminal" relation="-1"/>
+                <relation faction="hatikvah" relation="-1"/>
+                <relation faction="holyorder" relation="-1"/>
+                <relation faction="holyorderfanatic" relation="-1"/>
+                <relation faction="khaak" relation="-1"/>
+                <relation faction="ministry" relation="-1"/>
+                <relation faction="paranid" relation="-1"/>
+                <relation faction="player" relation="-1"/>
+                <relation faction="scaleplate" relation="-1"/>
+                <relation faction="smuggler" relation="-1"/>
+                <relation faction="teladi" relation="-1"/>
+                <relation faction="trinity" relation="-1"/>
+                <relation faction="visitor" relation="-1"/>
+                <relation faction="court" relation="-1"/>
+                <relation faction="fallensplit" relation="-1"/>
+                <relation faction="freesplit" relation="-1"/>
+                <relation faction="split" relation="-1"/>
+                <relation faction="pioneers" relation="-1"/>
+                <relation faction="terran" relation="-1"/>
+                <relation faction="yaki" relation="-0.011"/>
+                <relation faction="loanshark" relation="-1"/>
+                <relation faction="scavenger" relation="-1"/>
+                <relation faction="xenon" relation="1"/>
+                <relation faction="xenon1" relation="1"/>
+                <relation faction="xenon3" relation="1"/>
+                <relation faction="xenon4" relation="1"/>
+                <relation faction="xenon5" relation="1"/>
+                <relation faction="xenon6" relation="1"/>
+            </relations>
+            <signals>
+                <response signal="policehalt" response="attack"/>
+            </signals>
+        </faction>
+    </add>
+    <add sel="/factions/faction[@id='court']" pos="before">
+        <faction id="xenon3" name="{20203,1101}" description="{20203,1102}" shortname="{20203,1103}"
+                 prefixname="{20203,1104}" primaryrace="xenon" behaviourset="xenon"
+                 tags="claimspace notradeoffer privateloadout privateship">
+            <color r="201" g="0" b="0"/>
+            <icon active="faction_xenon" inactive="faction_xenon"/>
+            <relations locked="1">
+                <relation faction="alliance" relation="-1"/>
+                <relation faction="antigone" relation="-1"/>
+                <relation faction="argon" relation="-1"/>
+                <relation faction="buccaneers" relation="-1"/>
+                <relation faction="civilian" relation="-1"/>
+                <relation faction="criminal" relation="-1"/>
+                <relation faction="hatikvah" relation="-1"/>
+                <relation faction="holyorder" relation="-1"/>
+                <relation faction="holyorderfanatic" relation="-1"/>
+                <relation faction="khaak" relation="-1"/>
+                <relation faction="ministry" relation="-1"/>
+                <relation faction="paranid" relation="-1"/>
+                <relation faction="player" relation="-1"/>
+                <relation faction="scaleplate" relation="-1"/>
+                <relation faction="smuggler" relation="-1"/>
+                <relation faction="teladi" relation="-1"/>
+                <relation faction="trinity" relation="-1"/>
+                <relation faction="visitor" relation="-1"/>
+                <relation faction="court" relation="-1"/>
+                <relation faction="fallensplit" relation="-1"/>
+                <relation faction="freesplit" relation="-1"/>
+                <relation faction="split" relation="-1"/>
+                <relation faction="pioneers" relation="-1"/>
+                <relation faction="terran" relation="-1"/>
+                <relation faction="yaki" relation="-0.011"/>
+                <relation faction="loanshark" relation="-1"/>
+                <relation faction="scavenger" relation="-1"/>
+                <relation faction="xenon" relation="1"/>
+                <relation faction="xenon1" relation="1"/>
+                <relation faction="xenon2" relation="1"/>
+                <relation faction="xenon4" relation="1"/>
+                <relation faction="xenon5" relation="1"/>
+                <relation faction="xenon6" relation="1"/>
+            </relations>
+            <signals>
+                <response signal="policehalt" response="attack"/>
+            </signals>
+        </faction>
+    </add>
+    <add sel="/factions/faction[@id='court']" pos="before">
+        <faction id="xenon4" name="{20203,1101}" description="{20203,1102}" shortname="{20203,1103}"
+                 prefixname="{20203,1104}" primaryrace="xenon" behaviourset="xenon"
+                 tags="claimspace notradeoffer privateloadout privateship">
+            <color r="201" g="0" b="0"/>
+            <icon active="faction_xenon" inactive="faction_xenon"/>
+            <relations locked="1">
+                <relation faction="alliance" relation="-1"/>
+                <relation faction="antigone" relation="-1"/>
+                <relation faction="argon" relation="-1"/>
+                <relation faction="buccaneers" relation="-1"/>
+                <relation faction="civilian" relation="-1"/>
+                <relation faction="criminal" relation="-1"/>
+                <relation faction="hatikvah" relation="-1"/>
+                <relation faction="holyorder" relation="-1"/>
+                <relation faction="holyorderfanatic" relation="-1"/>
+                <relation faction="khaak" relation="-1"/>
+                <relation faction="ministry" relation="-1"/>
+                <relation faction="paranid" relation="-1"/>
+                <relation faction="player" relation="-1"/>
+                <relation faction="scaleplate" relation="-1"/>
+                <relation faction="smuggler" relation="-1"/>
+                <relation faction="teladi" relation="-1"/>
+                <relation faction="trinity" relation="-1"/>
+                <relation faction="visitor" relation="-1"/>
+                <relation faction="court" relation="-1"/>
+                <relation faction="fallensplit" relation="-1"/>
+                <relation faction="freesplit" relation="-1"/>
+                <relation faction="split" relation="-1"/>
+                <relation faction="pioneers" relation="-1"/>
+                <relation faction="terran" relation="-1"/>
+                <relation faction="yaki" relation="-0.011"/>
+                <relation faction="loanshark" relation="-1"/>
+                <relation faction="scavenger" relation="-1"/>
+                <relation faction="xenon" relation="1"/>
+                <relation faction="xenon1" relation="1"/>
+                <relation faction="xenon2" relation="1"/>
+                <relation faction="xenon3" relation="1"/>
+                <relation faction="xenon5" relation="1"/>
+                <relation faction="xenon6" relation="1"/>
+            </relations>
+            <signals>
+                <response signal="policehalt" response="attack"/>
+            </signals>
+        </faction>
+    </add>
+    <add sel="/factions/faction[@id='court']" pos="before">
+        <faction id="xenon5" name="{20203,1101}" description="{20203,1102}" shortname="{20203,1103}"
+                 prefixname="{20203,1104}" primaryrace="xenon" behaviourset="xenon"
+                 tags="claimspace notradeoffer privateloadout privateship">
+            <color r="201" g="0" b="0"/>
+            <icon active="faction_xenon" inactive="faction_xenon"/>
+            <relations locked="1">
+                <relation faction="alliance" relation="-1"/>
+                <relation faction="antigone" relation="-1"/>
+                <relation faction="argon" relation="-1"/>
+                <relation faction="buccaneers" relation="-1"/>
+                <relation faction="civilian" relation="-1"/>
+                <relation faction="criminal" relation="-1"/>
+                <relation faction="hatikvah" relation="-1"/>
+                <relation faction="holyorder" relation="-1"/>
+                <relation faction="holyorderfanatic" relation="-1"/>
+                <relation faction="khaak" relation="-1"/>
+                <relation faction="ministry" relation="-1"/>
+                <relation faction="paranid" relation="-1"/>
+                <relation faction="player" relation="-1"/>
+                <relation faction="scaleplate" relation="-1"/>
+                <relation faction="smuggler" relation="-1"/>
+                <relation faction="teladi" relation="-1"/>
+                <relation faction="trinity" relation="-1"/>
+                <relation faction="visitor" relation="-1"/>
+                <relation faction="court" relation="-1"/>
+                <relation faction="fallensplit" relation="-1"/>
+                <relation faction="freesplit" relation="-1"/>
+                <relation faction="split" relation="-1"/>
+                <relation faction="pioneers" relation="-1"/>
+                <relation faction="terran" relation="-1"/>
+                <relation faction="yaki" relation="-0.011"/>
+                <relation faction="loanshark" relation="-1"/>
+                <relation faction="scavenger" relation="-1"/>
+                <relation faction="xenon" relation="1"/>
+                <relation faction="xenon1" relation="1"/>
+                <relation faction="xenon2" relation="1"/>
+                <relation faction="xenon3" relation="1"/>
+                <relation faction="xenon4" relation="1"/>
+                <relation faction="xenon6" relation="1"/>
+            </relations>
+            <signals>
+                <response signal="policehalt" response="attack"/>
+            </signals>
+        </faction>
+    </add>
+    <add sel="/factions/faction[@id='court']" pos="before">
+        <faction id="xenon6" name="{20203,1101}" description="{20203,1102}" shortname="{20203,1103}"
+                 prefixname="{20203,1104}" primaryrace="xenon" behaviourset="xenon"
+                 tags="claimspace notradeoffer privateloadout privateship">
+            <color r="201" g="0" b="0"/>
+            <icon active="faction_xenon" inactive="faction_xenon"/>
+            <relations locked="1">
+                <relation faction="alliance" relation="-1"/>
+                <relation faction="antigone" relation="-1"/>
+                <relation faction="argon" relation="-1"/>
+                <relation faction="buccaneers" relation="-1"/>
+                <relation faction="civilian" relation="-1"/>
+                <relation faction="criminal" relation="-1"/>
+                <relation faction="hatikvah" relation="-1"/>
+                <relation faction="holyorder" relation="-1"/>
+                <relation faction="holyorderfanatic" relation="-1"/>
+                <relation faction="khaak" relation="-1"/>
+                <relation faction="ministry" relation="-1"/>
+                <relation faction="paranid" relation="-1"/>
+                <relation faction="player" relation="-1"/>
+                <relation faction="scaleplate" relation="-1"/>
+                <relation faction="smuggler" relation="-1"/>
+                <relation faction="teladi" relation="-1"/>
+                <relation faction="trinity" relation="-1"/>
+                <relation faction="visitor" relation="-1"/>
+                <relation faction="court" relation="-1"/>
+                <relation faction="fallensplit" relation="-1"/>
+                <relation faction="freesplit" relation="-1"/>
+                <relation faction="split" relation="-1"/>
+                <relation faction="pioneers" relation="-1"/>
+                <relation faction="terran" relation="-1"/>
+                <relation faction="yaki" relation="-0.011"/>
+                <relation faction="loanshark" relation="-1"/>
+                <relation faction="scavenger" relation="-1"/>
+                <relation faction="xenon" relation="1"/>
+                <relation faction="xenon1" relation="1"/>
+                <relation faction="xenon2" relation="1"/>
+                <relation faction="xenon3" relation="1"/>
+                <relation faction="xenon4" relation="1"/>
+                <relation faction="xenon5" relation="1"/>
+            </relations>
+            <signals>
+                <response signal="policehalt" response="attack"/>
+            </signals>
+        </faction>
+    </add>
+    <add sel="/factions/faction[@id='court']/relations/relation[@relation='-0.011'][@faction='terran']" pos="before">
+        <relation faction="xenon1" relation="-1"/>
+    </add>
+    <add sel="/factions/faction[@id='court']/relations/relation[@relation='-0.011'][@faction='terran']" pos="before">
+        <relation faction="xenon2" relation="-1"/>
+    </add>
+    <add sel="/factions/faction[@id='court']/relations/relation[@relation='-0.011'][@faction='terran']" pos="before">
+        <relation faction="xenon3" relation="-1"/>
+    </add>
+    <add sel="/factions/faction[@id='court']/relations/relation[@relation='-0.011'][@faction='terran']" pos="before">
+        <relation faction="xenon4" relation="-1"/>
+    </add>
+    <add sel="/factions/faction[@id='court']/relations/relation[@relation='-0.011'][@faction='terran']" pos="before">
+        <relation faction="xenon5" relation="-1"/>
+    </add>
+    <add sel="/factions/faction[@id='court']/relations/relation[@relation='-0.011'][@faction='terran']" pos="before">
+        <relation faction="xenon6" relation="-1"/>
+    </add>
+    <add sel="/factions/faction[@id='fallensplit']/relations/relation[@relation='-0.32'][@faction='pioneers']"
+         pos="before">
+        <relation faction="xenon1" relation="-1"/>
+    </add>
+    <add sel="/factions/faction[@id='fallensplit']/relations/relation[@relation='-0.32'][@faction='pioneers']"
+         pos="before">
+        <relation faction="xenon2" relation="-1"/>
+    </add>
+    <add sel="/factions/faction[@id='fallensplit']/relations/relation[@relation='-0.32'][@faction='pioneers']"
+         pos="before">
+        <relation faction="xenon3" relation="-1"/>
+    </add>
+    <add sel="/factions/faction[@id='fallensplit']/relations/relation[@relation='-0.32'][@faction='pioneers']"
+         pos="before">
+        <relation faction="xenon4" relation="-1"/>
+    </add>
+    <add sel="/factions/faction[@id='fallensplit']/relations/relation[@relation='-0.32'][@faction='pioneers']"
+         pos="before">
+        <relation faction="xenon5" relation="-1"/>
+    </add>
+    <add sel="/factions/faction[@id='fallensplit']/relations/relation[@relation='-0.32'][@faction='pioneers']"
+         pos="before">
+        <relation faction="xenon6" relation="-1"/>
+    </add>
+    <add sel="/factions/faction[@id='freesplit']/relations/relation[@relation='-0.011'][@faction='terran']"
+         pos="before">
+        <relation faction="xenon1" relation="-1"/>
+    </add>
+    <add sel="/factions/faction[@id='freesplit']/relations/relation[@relation='-0.011'][@faction='terran']"
+         pos="before">
+        <relation faction="xenon2" relation="-1"/>
+    </add>
+    <add sel="/factions/faction[@id='freesplit']/relations/relation[@relation='-0.011'][@faction='terran']"
+         pos="before">
+        <relation faction="xenon3" relation="-1"/>
+    </add>
+    <add sel="/factions/faction[@id='freesplit']/relations/relation[@relation='-0.011'][@faction='terran']"
+         pos="before">
+        <relation faction="xenon4" relation="-1"/>
+    </add>
+    <add sel="/factions/faction[@id='freesplit']/relations/relation[@relation='-0.011'][@faction='terran']"
+         pos="before">
+        <relation faction="xenon5" relation="-1"/>
+    </add>
+    <add sel="/factions/faction[@id='freesplit']/relations/relation[@relation='-0.011'][@faction='terran']"
+         pos="before">
+        <relation faction="xenon6" relation="-1"/>
+    </add>
+    <add sel="/factions/faction[@id='split']/relations/relation[@relation='-0.011']" pos="before">
+        <relation faction="xenon1" relation="-1"/>
+    </add>
+    <add sel="/factions/faction[@id='split']/relations/relation[@relation='-0.011']" pos="before">
+        <relation faction="xenon2" relation="-1"/>
+    </add>
+    <add sel="/factions/faction[@id='split']/relations/relation[@relation='-0.011']" pos="before">
+        <relation faction="xenon3" relation="-1"/>
+    </add>
+    <add sel="/factions/faction[@id='split']/relations/relation[@relation='-0.011']" pos="before">
+        <relation faction="xenon4" relation="-1"/>
+    </add>
+    <add sel="/factions/faction[@id='split']/relations/relation[@relation='-0.011']" pos="before">
+        <relation faction="xenon5" relation="-1"/>
+    </add>
+    <add sel="/factions/faction[@id='split']/relations/relation[@relation='-0.011']" pos="before">
+        <relation faction="xenon6" relation="-1"/>
+    </add>
+    <add sel="/factions/faction[@id='pioneers']/relations/relation[@relation='-0.011']" pos="before">
+        <relation faction="xenon1" relation="-1"/>
+    </add>
+    <add sel="/factions/faction[@id='pioneers']/relations/relation[@relation='-0.011']" pos="before">
+        <relation faction="xenon2" relation="-1"/>
+    </add>
+    <add sel="/factions/faction[@id='pioneers']/relations/relation[@relation='-0.011']" pos="before">
+        <relation faction="xenon3" relation="-1"/>
+    </add>
+    <add sel="/factions/faction[@id='pioneers']/relations/relation[@relation='-0.011']" pos="before">
+        <relation faction="xenon4" relation="-1"/>
+    </add>
+    <add sel="/factions/faction[@id='pioneers']/relations/relation[@relation='-0.011']" pos="before">
+        <relation faction="xenon5" relation="-1"/>
+    </add>
+    <add sel="/factions/faction[@id='pioneers']/relations/relation[@relation='-0.011']" pos="before">
+        <relation faction="xenon6" relation="-1"/>
+    </add>
+    <add sel="/factions/faction[@id='terran']/relations/relation[@relation='-1'][@faction='yaki']" pos="before">
+        <relation faction="xenon1" relation="-1"/>
+    </add>
+    <add sel="/factions/faction[@id='terran']/relations/relation[@relation='-1'][@faction='yaki']" pos="before">
+        <relation faction="xenon2" relation="-1"/>
+    </add>
+    <add sel="/factions/faction[@id='terran']/relations/relation[@relation='-1'][@faction='yaki']" pos="before">
+        <relation faction="xenon3" relation="-1"/>
+    </add>
+    <add sel="/factions/faction[@id='terran']/relations/relation[@relation='-1'][@faction='yaki']" pos="before">
+        <relation faction="xenon4" relation="-1"/>
+    </add>
+    <add sel="/factions/faction[@id='terran']/relations/relation[@relation='-1'][@faction='yaki']" pos="before">
+        <relation faction="xenon5" relation="-1"/>
+    </add>
+    <add sel="/factions/faction[@id='terran']/relations/relation[@relation='-1'][@faction='yaki']" pos="before">
+        <relation faction="xenon6" relation="-1"/>
+    </add>
+    <add sel="/factions/faction[@id='loanshark']/relations/relation[@relation='-0.32'][@faction='yaki']" pos="before">
+        <relation faction="xenon1" relation="-1"/>
+    </add>
+    <add sel="/factions/faction[@id='loanshark']/relations/relation[@relation='-0.32'][@faction='yaki']" pos="before">
+        <relation faction="xenon2" relation="-1"/>
+    </add>
+    <add sel="/factions/faction[@id='loanshark']/relations/relation[@relation='-0.32'][@faction='yaki']" pos="before">
+        <relation faction="xenon3" relation="-1"/>
+    </add>
+    <add sel="/factions/faction[@id='loanshark']/relations/relation[@relation='-0.32'][@faction='yaki']" pos="before">
+        <relation faction="xenon4" relation="-1"/>
+    </add>
+    <add sel="/factions/faction[@id='loanshark']/relations/relation[@relation='-0.32'][@faction='yaki']" pos="before">
+        <relation faction="xenon5" relation="-1"/>
+    </add>
+    <add sel="/factions/faction[@id='loanshark']/relations/relation[@relation='-0.32'][@faction='yaki']" pos="before">
+        <relation faction="xenon6" relation="-1"/>
+    </add>
+    <add sel="/factions/faction[@id='scavenger']/relations/relation[@relation='-0.32'][@faction='yaki']" pos="before">
+        <relation faction="xenon1" relation="-1"/>
+    </add>
+    <add sel="/factions/faction[@id='scavenger']/relations/relation[@relation='-0.32'][@faction='yaki']" pos="before">
+        <relation faction="xenon2" relation="-1"/>
+    </add>
+    <add sel="/factions/faction[@id='scavenger']/relations/relation[@relation='-0.32'][@faction='yaki']" pos="before">
+        <relation faction="xenon3" relation="-1"/>
+    </add>
+    <add sel="/factions/faction[@id='scavenger']/relations/relation[@relation='-0.32'][@faction='yaki']" pos="before">
+        <relation faction="xenon4" relation="-1"/>
+    </add>
+    <add sel="/factions/faction[@id='scavenger']/relations/relation[@relation='-0.32'][@faction='yaki']" pos="before">
+        <relation faction="xenon5" relation="-1"/>
+    </add>
+    <add sel="/factions/faction[@id='scavenger']/relations/relation[@relation='-0.32'][@faction='yaki']" pos="before">
+        <relation faction="xenon6" relation="-1"/>
+    </add>
+</diff>
